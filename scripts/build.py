@@ -112,6 +112,28 @@ def ensure_release():
     )
 
 
+def list_release_assets():
+    if not REPO:
+        return {}
+    rid = subprocess.run(
+        ["gh", "api", f"repos/{REPO}/releases/tags/{TAG}", "-q", ".id"],
+        capture_output=True, text=True,
+    ).stdout.strip()
+    if not rid.isdigit():
+        return {}
+    out = subprocess.run(
+        ["gh", "api", f"repos/{REPO}/releases/{rid}/assets", "--paginate",
+         "-q", '.[] | .name + "\t" + (.size|tostring)'],
+        capture_output=True, text=True,
+    ).stdout
+    assets = {}
+    for line in out.splitlines():
+        if "\t" in line:
+            name, size = line.rsplit("\t", 1)
+            assets[name] = int(size) if size.isdigit() else 0
+    return assets
+
+
 def upload_asset(path):
     if not REPO:
         return
@@ -174,6 +196,7 @@ def main():
     if info:
         state["info"] = info
     ensure_release()
+    existing = list_release_assets()
 
     for m in medias:
         if m.get("attr", 0) != 0:
@@ -191,12 +214,18 @@ def main():
         for kind in kinds:
             if it.get(kind):
                 continue
+            fname = f"{bvid}.{KINDS[kind]['ext']}"
+            if fname in existing:
+                it[kind] = {"size": existing[fname], "file": fname}
+                save_state(state)
+                continue
             try:
                 path = download(kind, bvid)
             except subprocess.CalledProcessError:
                 continue
             upload_asset(path)
-            it[kind] = {"size": path.stat().st_size if path.exists() else 0, "file": path.name}
+            existing[path.name] = path.stat().st_size if path.exists() else 0
+            it[kind] = {"size": existing[path.name], "file": path.name}
             save_state(state)
 
     for kind in kinds:

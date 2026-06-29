@@ -1,0 +1,53 @@
+name: build-bili-audio-feed
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      uid:
+        description: bilibili uid
+        required: false
+      fid:
+        description: bilibili fav id
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-feed
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      BILI_UID: ${{ github.event.inputs.uid || vars.BILI_UID }}
+      BILI_FID: ${{ github.event.inputs.fid || vars.BILI_FID }}
+      BILI_COOKIE: ${{ secrets.BILI_COOKIE }}
+      AUDIO_TAG: audio
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Build feed
+        run: python scripts/build.py
+
+      - name: Commit feed & state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feed.xml state.json
+          git commit -m "update feed" || echo "no changes"
+          git push

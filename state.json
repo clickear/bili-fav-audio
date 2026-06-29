@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i2.hdslb.com/bfs/archive/b77e062bdfdeefdd953e5644e1ab1b73cdb160ff.jpg",
+    "cover": "http://i1.hdslb.com/bfs/archive/635e3d2adddca55916ce438139ccc87cdb541be9.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 224,
+    "media_count": 225,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2348,6 +2348,18 @@
       "audio": {
         "size": 5012789,
         "file": "BV1ys411472E.m4a"
+      }
+    },
+    "BV1kqE36HEmX": {
+      "bvid": "BV1kqE36HEmX",
+      "title": "第20集：【英语故事Level2】《只要521个单词，就能说流利的英语》| 听故事学英语，慢速英语",
+      "intro": "日常生活中的英语口语练习 || 停止翻译，开始说英语！ 您是否理解英语，但一到开口说话时却大脑一片空白？您是否每天都看英语视频，但当别人用英语问您一个简单的问题时，仍然会感到紧张 ！本视频包含 7 个高效的口语课程，旨在提升您的英语口语、听力、词汇量、流利度、自信心和自然对话能力。您不仅会学习单词，还会学习如何在真实的回答、情境和对话中运用这些单词。",
+      "cover": "http://i1.hdslb.com/bfs/archive/635e3d2adddca55916ce438139ccc87cdb541be9.jpg",
+      "author": "武晓舞",
+      "ctime": 1780934778,
+      "audio": {
+        "size": 46224699,
+        "file": "BV1kqE36HEmX.m4a"
       }
     }
   }

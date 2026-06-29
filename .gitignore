@@ -1,4 +1,6 @@
 audio/
+video/
+cookies.txt
 __pycache__/
 *.pyc
 .venv/

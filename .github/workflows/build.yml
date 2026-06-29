@@ -11,6 +11,15 @@ on:
       fid:
         description: bilibili fav id
         required: false
+      media_type:
+        description: audio / video / both
+        required: false
+        type: choice
+        default: audio
+        options:
+          - audio
+          - video
+          - both
 
 permissions:
   contents: write
@@ -26,6 +35,8 @@ jobs:
       BILI_UID: ${{ github.event.inputs.uid || vars.BILI_UID }}
       BILI_FID: ${{ github.event.inputs.fid || vars.BILI_FID }}
       BILI_COOKIE: ${{ secrets.BILI_COOKIE }}
+      MEDIA_TYPE: ${{ github.event.inputs.media_type || vars.MEDIA_TYPE || 'audio' }}
+      VIDEO_FORMAT: ${{ vars.VIDEO_FORMAT }}
       AUDIO_TAG: audio
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
@@ -48,6 +59,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feed.xml state.json
+          git add feed_audio.xml feed_video.xml state.json 2>/dev/null || true
           git commit -m "update feed" || echo "no changes"
           git push

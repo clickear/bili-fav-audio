@@ -13,13 +13,18 @@ FID = os.environ["BILI_FID"]
 REPO = os.environ.get("GITHUB_REPOSITORY", "")
 TAG = os.environ.get("AUDIO_TAG", "audio")
 COOKIE = os.environ.get("BILI_COOKIE", "").strip()
+MEDIA_TYPE = os.environ.get("MEDIA_TYPE", "audio").strip().lower()
+VIDEO_FORMAT = os.environ.get("VIDEO_FORMAT", "").strip() or "bv*[vcodec^=avc][height<=1080]+ba/bv*[height<=1080]+ba/b"
 SITE_BASE = os.environ.get("SITE_BASE", f"https://github.com/{REPO}/releases/download/{TAG}")
 
-AUDIO_DIR = Path("audio")
 STATE_FILE = Path("state.json")
-FEED_FILE = Path("feed.xml")
 COOKIE_FILE = Path("cookies.txt")
 API = "https://api.bilibili.com/x/v3/fav/resource/list"
+
+KINDS = {
+    "audio": {"dir": Path("audio"), "ext": "m4a", "feed": Path("feed_audio.xml"), "mime": "audio/mp4", "label": "音频"},
+    "video": {"dir": Path("video"), "ext": "mp4", "feed": Path("feed_video.xml"), "mime": "video/mp4", "label": "视频"},
+}
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
@@ -29,9 +34,17 @@ if COOKIE:
     HEADERS["Cookie"] = COOKIE
 
 
+def enabled_kinds():
+    if MEDIA_TYPE == "both":
+        return ["audio", "video"]
+    if MEDIA_TYPE in KINDS:
+        return [MEDIA_TYPE]
+    return ["audio"]
+
+
 def write_cookies():
     if not COOKIE:
-        return None
+        return
     lines = ["# Netscape HTTP Cookie File"]
     for part in COOKIE.split(";"):
         if "=" not in part:
@@ -39,13 +52,17 @@ def write_cookies():
         name, value = part.strip().split("=", 1)
         lines.append("\t".join([".bilibili.com", "TRUE", "/", "TRUE", "0", name, value]))
     COOKIE_FILE.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    return COOKIE_FILE
 
 
 def load_state():
     if STATE_FILE.exists():
-        return json.loads(STATE_FILE.read_text(encoding="utf-8"))
-    return {"info": {}, "items": {}}
+        state = json.loads(STATE_FILE.read_text(encoding="utf-8"))
+    else:
+        state = {"info": {}, "items": {}}
+    for it in state.get("items", {}).values():
+        if "size" in it and "audio" not in it:
+            it["audio"] = {"size": it.pop("size"), "file": f"{it['bvid']}.m4a"}
+    return state
 
 
 def save_state(state):
@@ -66,18 +83,22 @@ def fetch_list():
     return items, info
 
 
-def download_audio(bvid):
-    out = AUDIO_DIR / f"{bvid}.m4a"
+def download(kind, bvid):
+    cfg = KINDS[kind]
+    out = cfg["dir"] / f"{bvid}.{cfg['ext']}"
     if out.exists():
         return out
     cmd = [
-        "yt-dlp", "--no-update", "-f", "ba", "-x", "--audio-format", "m4a",
-        "--no-playlist", "--referer", "https://www.bilibili.com/",
-        "-o", str(AUDIO_DIR / f"{bvid}.%(ext)s"),
-        f"https://www.bilibili.com/video/{bvid}",
+        "yt-dlp", "--no-update", "--no-playlist", "--referer", "https://www.bilibili.com/",
+        "-o", str(cfg["dir"] / f"{bvid}.%(ext)s"),
     ]
+    if kind == "audio":
+        cmd += ["-f", "ba", "-x", "--audio-format", "m4a"]
+    else:
+        cmd += ["-f", VIDEO_FORMAT, "--merge-output-format", "mp4"]
     if COOKIE_FILE.exists():
         cmd += ["--cookies", str(COOKIE_FILE)]
+    cmd.append(f"https://www.bilibili.com/video/{bvid}")
     subprocess.run(cmd, check=True)
     return out
 
@@ -86,7 +107,7 @@ def ensure_release():
     if not REPO:
         return
     subprocess.run(
-        ["gh", "release", "create", TAG, "--title", "audio", "--notes", "audio assets", "--latest=false"],
+        ["gh", "release", "create", TAG, "--title", "media", "--notes", "media assets", "--latest=false"],
         capture_output=True,
     )
 
@@ -101,26 +122,29 @@ def rfc822(ts):
     return format_datetime(datetime.fromtimestamp(ts, tz=timezone.utc))
 
 
-def build_feed(state):
+def build_feed(kind, state):
+    cfg = KINDS[kind]
     info = state["info"]
-    title = info.get("title", "bilibili 收藏夹")
+    title = f"{info.get('title', 'bilibili 收藏夹')} - {cfg['label']}"
     cover = info.get("cover", "")
     home = f"https://space.bilibili.com/{UID}/favlist?fid={FID}"
     now = format_datetime(datetime.now(tz=timezone.utc))
 
-    ordered = sorted(state["items"].values(), key=lambda x: x["ctime"], reverse=True)
+    items = [v for v in state["items"].values() if v.get(kind)]
+    ordered = sorted(items, key=lambda x: x["ctime"], reverse=True)
     entries = []
     for it in ordered:
-        url = f"{SITE_BASE}/{it['bvid']}.m4a"
+        url = f"{SITE_BASE}/{it['bvid']}.{cfg['ext']}"
+        size = it[kind].get("size", 0)
         entries.append(f"""    <item>
       <title>{escape(it['title'])}</title>
       <link>https://www.bilibili.com/video/{it['bvid']}</link>
-      <guid isPermaLink="false">{it['bvid']}</guid>
+      <guid isPermaLink="false">{it['bvid']}-{kind}</guid>
       <pubDate>{rfc822(it['ctime'])}</pubDate>
       <author>{escape(it.get('author', ''))}</author>
       <description>{escape(it.get('intro', ''))}</description>
       <itunes:image href="{escape(it.get('cover', ''))}"/>
-      <enclosure url="{escape(url)}" type="audio/mp4" length="{it.get('size', 0)}"/>
+      <enclosure url="{escape(url)}" type="{cfg['mime']}" length="{size}"/>
     </item>""")
 
     xml = f"""<?xml version="1.0" encoding="UTF-8"?>
@@ -128,7 +152,7 @@ def build_feed(state):
   <channel>
     <title>{escape(title)}</title>
     <link>{home}</link>
-    <description>{escape(title)} - bilibili 收藏夹音频</description>
+    <description>{escape(title)}</description>
     <language>zh-cn</language>
     <lastBuildDate>{now}</lastBuildDate>
     <itunes:image href="{escape(cover)}"/>
@@ -137,11 +161,13 @@ def build_feed(state):
   </channel>
 </rss>
 """
-    FEED_FILE.write_text(xml, encoding="utf-8")
+    cfg["feed"].write_text(xml, encoding="utf-8")
 
 
 def main():
-    AUDIO_DIR.mkdir(exist_ok=True)
+    kinds = enabled_kinds()
+    for k in kinds:
+        KINDS[k]["dir"].mkdir(exist_ok=True)
     write_cookies()
     state = load_state()
     medias, info = fetch_list()
@@ -150,28 +176,31 @@ def main():
     ensure_release()
 
     for m in medias:
-        bvid = m["bvid"]
         if m.get("attr", 0) != 0:
             continue
-        if bvid in state["items"]:
-            continue
-        try:
-            path = download_audio(bvid)
-        except subprocess.CalledProcessError:
-            continue
-        upload_asset(path)
-        state["items"][bvid] = {
+        bvid = m["bvid"]
+        it = state["items"].setdefault(bvid, {})
+        it.update({
             "bvid": bvid,
             "title": m.get("title", ""),
             "intro": m.get("intro", ""),
             "cover": m.get("cover", ""),
             "author": (m.get("upper") or {}).get("name", ""),
             "ctime": m.get("ctime", 0),
-            "size": path.stat().st_size if path.exists() else 0,
-        }
-        save_state(state)
+        })
+        for kind in kinds:
+            if it.get(kind):
+                continue
+            try:
+                path = download(kind, bvid)
+            except subprocess.CalledProcessError:
+                continue
+            upload_asset(path)
+            it[kind] = {"size": path.stat().st_size if path.exists() else 0, "file": path.name}
+            save_state(state)
 
-    build_feed(state)
+    for kind in kinds:
+        build_feed(kind, state)
     save_state(state)
 
 

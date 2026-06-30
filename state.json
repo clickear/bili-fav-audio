@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i1.hdslb.com/bfs/archive/231b5e2ad1183eedf57faa6f22ee2964461210f8.jpg",
+    "cover": "http://i0.hdslb.com/bfs/archive/4455fb95fdc50215aa964612aaf59fd656eab242.png",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 231,
+    "media_count": 232,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2432,6 +2432,18 @@
       "audio": {
         "size": 27531777,
         "file": "BV1no5B6UEjg.m4a"
+      }
+    },
+    "BV1o3E16TEyw": {
+      "bvid": "BV1o3E16TEyw",
+      "title": "让你100%做到看单词就能读写",
+      "intro": "一条视频搞定音标，让你100%做到看单词就能读写。视频有点长耐心学完。",
+      "cover": "http://i0.hdslb.com/bfs/archive/4455fb95fdc50215aa964612aaf59fd656eab242.png",
+      "author": "俊杰老师精讲英语",
+      "ctime": 1781261063,
+      "audio": {
+        "size": 40275297,
+        "file": "BV1o3E16TEyw.m4a"
       }
     }
   }

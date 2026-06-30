@@ -5,8 +5,8 @@
     <link>https://space.bilibili.com/108635541/favlist?fid=55743041</link>
     <description>默认收藏夹 - 音频</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 29 Jun 2026 19:51:32 +0000</lastBuildDate>
-    <itunes:image href="http://i1.hdslb.com/bfs/archive/231b5e2ad1183eedf57faa6f22ee2964461210f8.jpg"/>
+    <lastBuildDate>Tue, 30 Jun 2026 02:55:40 +0000</lastBuildDate>
+    <itunes:image href="http://i0.hdslb.com/bfs/archive/4455fb95fdc50215aa964612aaf59fd656eab242.png"/>
     <itunes:author>bilibili</itunes:author>
     <item>
       <title>6月25日，山东，“语文往外看，英语往前看，数学往后看”，女生分享：学霸成绩好，记住这15个字，语文扩展阅读，英语从小练习，数学打牢。</title>
@@ -77,6 +77,16 @@
       <description>素材皆来源于网络，若有任何版权问题，请联系我进行下架处理，谢谢！</description>
       <itunes:image href="http://i0.hdslb.com/bfs/archive/64d91b56b1f42d3fb7643822d98cc3416542d6d5.jpg"/>
       <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV13mJn68Ej2.m4a" type="audio/mp4" length="60068236"/>
+    </item>
+    <item>
+      <title>让你100%做到看单词就能读写</title>
+      <link>https://www.bilibili.com/video/BV1o3E16TEyw</link>
+      <guid isPermaLink="false">BV1o3E16TEyw-audio</guid>
+      <pubDate>Fri, 12 Jun 2026 10:44:23 +0000</pubDate>
+      <author>俊杰老师精讲英语</author>
+      <description>一条视频搞定音标，让你100%做到看单词就能读写。视频有点长耐心学完。</description>
+      <itunes:image href="http://i0.hdslb.com/bfs/archive/4455fb95fdc50215aa964612aaf59fd656eab242.png"/>
+      <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1o3E16TEyw.m4a" type="audio/mp4" length="40275297"/>
     </item>
     <item>
       <title>人生原则：别着急 但抓点紧。</title>

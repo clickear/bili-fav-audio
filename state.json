@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i0.hdslb.com/bfs/archive/4455fb95fdc50215aa964612aaf59fd656eab242.png",
+    "cover": "http://i1.hdslb.com/bfs/archive/7141c6b893ba98c6d2c02f6818869a4637848669.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 232,
+    "media_count": 233,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2444,6 +2444,18 @@
       "audio": {
         "size": 40275297,
         "file": "BV1o3E16TEyw.m4a"
+      }
+    },
+    "BV1LvTh6KE9i": {
+      "bvid": "BV1LvTh6KE9i",
+      "title": "比自然拼读更好的拼读方法",
+      "intro": "粉丝过一万，上新概念一册单词，超快速背完！",
+      "cover": "http://i1.hdslb.com/bfs/archive/7141c6b893ba98c6d2c02f6818869a4637848669.jpg",
+      "author": "英语音节直观拼读法2",
+      "ctime": 1782872231,
+      "audio": {
+        "size": 51799991,
+        "file": "BV1LvTh6KE9i.m4a"
       }
     }
   }

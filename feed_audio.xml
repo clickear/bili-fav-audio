@@ -5,9 +5,19 @@
     <link>https://space.bilibili.com/108635541/favlist?fid=55743041</link>
     <description>默认收藏夹 - 音频</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 01 Jul 2026 19:48:18 +0000</lastBuildDate>
-    <itunes:image href="http://i1.hdslb.com/bfs/archive/7141c6b893ba98c6d2c02f6818869a4637848669.jpg"/>
+    <lastBuildDate>Thu, 02 Jul 2026 02:47:05 +0000</lastBuildDate>
+    <itunes:image href="http://i2.hdslb.com/bfs/archive/2ec8e8db9a88c9d957b887c04f7b036efafe171d.jpg"/>
     <itunes:author>bilibili</itunes:author>
+    <item>
+      <title>全70集《小学英语音标》 专门为小学生打造，从基础音标发音到拼读应用，循序渐进讲解。帮助孩子能够精准掌握发音规则，建立音形对应意识！！！</title>
+      <link>https://www.bilibili.com/video/BV1N7TY6xEdL</link>
+      <guid isPermaLink="false">BV1N7TY6xEdL-audio</guid>
+      <pubDate>Wed, 01 Jul 2026 06:30:48 +0000</pubDate>
+      <author>橙橙小课堂</author>
+      <description>全70集《小学英语音标》 专门为小学生打造，从基础音标发音到拼读应用，循序渐进讲解。帮助孩子能够精准掌握发音规则，建立音形对应意识！！！</description>
+      <itunes:image href="http://i2.hdslb.com/bfs/archive/2ec8e8db9a88c9d957b887c04f7b036efafe171d.jpg"/>
+      <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1N7TY6xEdL.m4a" type="audio/mp4" length="5906908"/>
+    </item>
     <item>
       <title>比自然拼读更好的拼读方法</title>
       <link>https://www.bilibili.com/video/BV1LvTh6KE9i</link>

@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i1.hdslb.com/bfs/archive/7141c6b893ba98c6d2c02f6818869a4637848669.jpg",
+    "cover": "http://i2.hdslb.com/bfs/archive/2ec8e8db9a88c9d957b887c04f7b036efafe171d.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 233,
+    "media_count": 234,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2456,6 +2456,18 @@
       "audio": {
         "size": 51799991,
         "file": "BV1LvTh6KE9i.m4a"
+      }
+    },
+    "BV1N7TY6xEdL": {
+      "bvid": "BV1N7TY6xEdL",
+      "title": "全70集《小学英语音标》 专门为小学生打造，从基础音标发音到拼读应用，循序渐进讲解。帮助孩子能够精准掌握发音规则，建立音形对应意识！！！",
+      "intro": "全70集《小学英语音标》 专门为小学生打造，从基础音标发音到拼读应用，循序渐进讲解。帮助孩子能够精准掌握发音规则，建立音形对应意识！！！",
+      "cover": "http://i2.hdslb.com/bfs/archive/2ec8e8db9a88c9d957b887c04f7b036efafe171d.jpg",
+      "author": "橙橙小课堂",
+      "ctime": 1782887448,
+      "audio": {
+        "size": 5906908,
+        "file": "BV1N7TY6xEdL.m4a"
       }
     }
   }

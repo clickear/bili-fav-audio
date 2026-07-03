@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i2.hdslb.com/bfs/archive/2ec8e8db9a88c9d957b887c04f7b036efafe171d.jpg",
+    "cover": "http://i1.hdslb.com/bfs/archive/22f77a1c0e828a2140f475acd89e0fc2918d73ef.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -17,7 +17,7 @@
     "cover_type": 2,
     "cnt_info": {
       "collect": 0,
-      "play": 19,
+      "play": 20,
       "thumb_up": 0,
       "share": 0
     },
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 233,
+    "media_count": 236,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2468,6 +2468,42 @@
       "audio": {
         "size": 5906908,
         "file": "BV1N7TY6xEdL.m4a"
+      }
+    },
+    "BV1Xe7V6MEa7": {
+      "bvid": "BV1Xe7V6MEa7",
+      "title": "B2英语高级句型｜The More… The More… 100句（递进表达）",
+      "intro": "B2英语高级句型｜The More… The More… 100句（递进表达）\n\n描述（Description）\n\n“The more…, the more…” 是B2阶段非常重要的英语高级句型，用来表达“越……就越……”的递进关系。\n\n这个结构在英语口语、写作、逻辑表达、雅思托福以及学术英语中都非常常见，可以帮助你更自然地表达因果递进关系。\n\n例如：\n\n✅ The more you practice, the more you improve.\n你练习得越多，进步越大。\n\n✅ The more you ",
+      "cover": "http://i1.hdslb.com/bfs/archive/22f77a1c0e828a2140f475acd89e0fc2918d73ef.jpg",
+      "author": "英语100句",
+      "ctime": 1782480436,
+      "audio": {
+        "size": 10735597,
+        "file": "BV1Xe7V6MEa7.m4a"
+      }
+    },
+    "BV1gbEB6kESt": {
+      "bvid": "BV1gbEB6kESt",
+      "title": "让你变强的顶级思维：建立系统，而非追求目标丨纳瓦尔·拉维坎特",
+      "intro": "你缺的是一套能在疲惫、焦虑和低状态下依然运转的人生系统。真正改变命运的，从来不是一时热血，而是那些能够持续重复的小动作。",
+      "cover": "http://i1.hdslb.com/bfs/archive/3fede5148f3c6a02432b6c52112e455fc8e80e65.jpg",
+      "author": "觉知实验室AwareLab",
+      "ctime": 1781195948,
+      "audio": {
+        "size": 29944909,
+        "file": "BV1gbEB6kESt.m4a"
+      }
+    },
+    "BV1RZ5r6yEPh": {
+      "bvid": "BV1RZ5r6yEPh",
+      "title": "这样练英语听力，1个月就能看见效果（395）",
+      "intro": "这样练英语听力，1个月就能看见效果",
+      "cover": "http://i2.hdslb.com/bfs/archive/39223af429a81e6cdeca742ccb9b2a6683078a51.jpg",
+      "author": "BigShot英语",
+      "ctime": 1778897089,
+      "audio": {
+        "size": 3372345,
+        "file": "BV1RZ5r6yEPh.m4a"
       }
     }
   }

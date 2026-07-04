@@ -5,8 +5,8 @@
     <link>https://space.bilibili.com/108635541/favlist?fid=55743041</link>
     <description>默认收藏夹 - 音频</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 04 Jul 2026 13:13:14 +0000</lastBuildDate>
-    <itunes:image href="http://i1.hdslb.com/bfs/archive/22f77a1c0e828a2140f475acd89e0fc2918d73ef.jpg"/>
+    <lastBuildDate>Sat, 04 Jul 2026 19:03:45 +0000</lastBuildDate>
+    <itunes:image href="http://i2.hdslb.com/bfs/archive/1a2954df71c3c709d47b8e9807e3d6a0af45b211.jpg"/>
     <itunes:author>bilibili</itunes:author>
     <item>
       <title>全70集《小学英语音标》 专门为小学生打造，从基础音标发音到拼读应用，循序渐进讲解。帮助孩子能够精准掌握发音规则，建立音形对应意识！！！</title>
@@ -526,6 +526,16 @@
       <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1dPXNBzECD.m4a" type="audio/mp4" length="392548"/>
     </item>
     <item>
+      <title>【全582集】 每日英语精听精讲 逐句拆解连读弱读 告别无效磨耳朵</title>
+      <link>https://www.bilibili.com/video/BV1KcQrBsEej</link>
+      <guid isPermaLink="false">BV1KcQrBsEej-audio</guid>
+      <pubDate>Tue, 24 Mar 2026 14:39:35 +0000</pubDate>
+      <author>YouTube英语成长营</author>
+      <description>【全582集】 每日英语精听精讲 逐句拆解连读弱读 告别无效磨耳朵</description>
+      <itunes:image href="http://i1.hdslb.com/bfs/archive/ec7db4b31a0e65a6b55ec22cefc29191c7c57289.jpg"/>
+      <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1KcQrBsEej.m4a" type="audio/mp4" length="6451875"/>
+    </item>
+    <item>
       <title>2012年的酱油我吃了半个月</title>
       <link>https://www.bilibili.com/video/BV1CgQrBEESi</link>
       <guid isPermaLink="false">BV1CgQrBEESi-audio</guid>
@@ -868,6 +878,16 @@ https://github.com/affaan-m/everything-claude-code</description>
       <description>-</description>
       <itunes:image href="http://i2.hdslb.com/bfs/archive/729fbd3d841ae2b172476575ceef83e8cdd0d8b8.jpg"/>
       <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1U1bdzcEP7.m4a" type="audio/mp4" length="1532495"/>
+    </item>
+    <item>
+      <title>48个音标快速记忆法 英语必修课，超级干货</title>
+      <link>https://www.bilibili.com/video/BV1RtuEzEEpB</link>
+      <guid isPermaLink="false">BV1RtuEzEEpB-audio</guid>
+      <pubDate>Tue, 15 Jul 2025 11:16:52 +0000</pubDate>
+      <author>全能英语韩老师</author>
+      <description></description>
+      <itunes:image href="http://i2.hdslb.com/bfs/archive/1a2954df71c3c709d47b8e9807e3d6a0af45b211.jpg"/>
+      <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1RtuEzEEpB.m4a" type="audio/mp4" length="24902167"/>
     </item>
     <item>
       <title>《凡人修仙传》人界篇十年之旅，完结时间预测</title>

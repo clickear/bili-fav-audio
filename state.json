@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i1.hdslb.com/bfs/archive/22f77a1c0e828a2140f475acd89e0fc2918d73ef.jpg",
+    "cover": "http://i2.hdslb.com/bfs/archive/1a2954df71c3c709d47b8e9807e3d6a0af45b211.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 236,
+    "media_count": 238,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2504,6 +2504,30 @@
       "audio": {
         "size": 3372345,
         "file": "BV1RZ5r6yEPh.m4a"
+      }
+    },
+    "BV1RtuEzEEpB": {
+      "bvid": "BV1RtuEzEEpB",
+      "title": "48个音标快速记忆法 英语必修课，超级干货",
+      "intro": "",
+      "cover": "http://i2.hdslb.com/bfs/archive/1a2954df71c3c709d47b8e9807e3d6a0af45b211.jpg",
+      "author": "全能英语韩老师",
+      "ctime": 1752578212,
+      "audio": {
+        "size": 24902167,
+        "file": "BV1RtuEzEEpB.m4a"
+      }
+    },
+    "BV1KcQrBsEej": {
+      "bvid": "BV1KcQrBsEej",
+      "title": "【全582集】 每日英语精听精讲 逐句拆解连读弱读 告别无效磨耳朵",
+      "intro": "【全582集】 每日英语精听精讲 逐句拆解连读弱读 告别无效磨耳朵",
+      "cover": "http://i1.hdslb.com/bfs/archive/ec7db4b31a0e65a6b55ec22cefc29191c7c57289.jpg",
+      "author": "YouTube英语成长营",
+      "ctime": 1774363175,
+      "audio": {
+        "size": 6451875,
+        "file": "BV1KcQrBsEej.m4a"
       }
     }
   }

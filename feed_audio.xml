@@ -5,8 +5,8 @@
     <link>https://space.bilibili.com/108635541/favlist?fid=55743041</link>
     <description>默认收藏夹 - 音频</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 05 Jul 2026 02:36:46 +0000</lastBuildDate>
-    <itunes:image href="http://i2.hdslb.com/bfs/archive/1a2954df71c3c709d47b8e9807e3d6a0af45b211.jpg"/>
+    <lastBuildDate>Sun, 05 Jul 2026 08:46:55 +0000</lastBuildDate>
+    <itunes:image href="http://i2.hdslb.com/bfs/archive/a81215217dcab2de20307eb7dc42a94cb74478f4.jpg"/>
     <itunes:author>bilibili</itunes:author>
     <item>
       <title>全70集《小学英语音标》 专门为小学生打造，从基础音标发音到拼读应用，循序渐进讲解。帮助孩子能够精准掌握发音规则，建立音形对应意识！！！</title>
@@ -817,6 +817,16 @@ https://github.com/affaan-m/everything-claude-code</description>
       <description>-</description>
       <itunes:image href="http://i1.hdslb.com/bfs/archive/48bb53c12497cb2edbc87e4d7060b1307a1bf159.jpg"/>
       <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1fj4tzbEPS.m4a" type="audio/mp4" length="1031265"/>
+    </item>
+    <item>
+      <title>元音傻傻发不清？一次搞定/i//ɪ//ɛ//æ/</title>
+      <link>https://www.bilibili.com/video/BV1KDnPztEbf</link>
+      <guid isPermaLink="false">BV1KDnPztEbf-audio</guid>
+      <pubDate>Mon, 22 Sep 2025 13:24:26 +0000</pubDate>
+      <author>po老师英语版</author>
+      <description>-</description>
+      <itunes:image href="http://i2.hdslb.com/bfs/archive/a81215217dcab2de20307eb7dc42a94cb74478f4.jpg"/>
+      <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1KDnPztEbf.m4a" type="audio/mp4" length="1158562"/>
     </item>
     <item>
       <title>顶级的纯音乐到底有多牛?没有一句歌词却能直击听众灵魂！</title>

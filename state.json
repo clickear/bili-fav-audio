@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i2.hdslb.com/bfs/archive/1a2954df71c3c709d47b8e9807e3d6a0af45b211.jpg",
+    "cover": "http://i2.hdslb.com/bfs/archive/a81215217dcab2de20307eb7dc42a94cb74478f4.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -17,7 +17,7 @@
     "cover_type": 2,
     "cnt_info": {
       "collect": 0,
-      "play": 25,
+      "play": 26,
       "thumb_up": 0,
       "share": 0
     },
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 238,
+    "media_count": 239,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2528,6 +2528,18 @@
       "audio": {
         "size": 6451875,
         "file": "BV1KcQrBsEej.m4a"
+      }
+    },
+    "BV1KDnPztEbf": {
+      "bvid": "BV1KDnPztEbf",
+      "title": "元音傻傻发不清？一次搞定/i//ɪ//ɛ//æ/",
+      "intro": "-",
+      "cover": "http://i2.hdslb.com/bfs/archive/a81215217dcab2de20307eb7dc42a94cb74478f4.jpg",
+      "author": "po老师英语版",
+      "ctime": 1758547466,
+      "audio": {
+        "size": 1158562,
+        "file": "BV1KDnPztEbf.m4a"
       }
     }
   }

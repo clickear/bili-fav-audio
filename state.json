@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i2.hdslb.com/bfs/archive/a81215217dcab2de20307eb7dc42a94cb74478f4.jpg",
+    "cover": "http://i2.hdslb.com/bfs/archive/e1205c461e0d96b3f2d40b04c094b21cbbb9cd72.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 239,
+    "media_count": 242,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2540,6 +2540,42 @@
       "audio": {
         "size": 1158562,
         "file": "BV1KDnPztEbf.m4a"
+      }
+    },
+    "BV12fLE6zEGw": {
+      "bvid": "BV12fLE6zEGw",
+      "title": "孙志立新升级版简明音标48讲",
+      "intro": "",
+      "cover": "http://i2.hdslb.com/bfs/archive/e1205c461e0d96b3f2d40b04c094b21cbbb9cd72.jpg",
+      "author": "我今天不在",
+      "ctime": 1778996196,
+      "audio": {
+        "size": 5384354,
+        "file": "BV12fLE6zEGw.m4a"
+      }
+    },
+    "BV1V7Tu6MEfd": {
+      "bvid": "BV1V7Tu6MEfd",
+      "title": "2026最新孙志立新概念第一册孙志立自然拼读课孙志立会说话的句型课孙志立英语口语每天练100讲孙志立音标50讲孙志立新概念第二册孙志立音标孙志立听力100讲 适",
+      "intro": "2026最新孙志立新概念第一册孙志立自然拼读课孙志立会说话的句型课孙志立英语口语每天练100讲孙志立音标50讲孙志立新概念第二册孙志立音标孙志立听力100讲 适合初学者和小学生的自然拼读课，听完看到单词就会读的好课程。",
+      "cover": "http://i0.hdslb.com/bfs/archive/ead34bfe5c4b8f3f6544512314d8ee470e2add13.jpg",
+      "author": "优学宝库-1030",
+      "ctime": 1782661193,
+      "audio": {
+        "size": 12038767,
+        "file": "BV1V7Tu6MEfd.m4a"
+      }
+    },
+    "BV1Dh7n6WE73": {
+      "bvid": "BV1Dh7n6WE73",
+      "title": "35岁-45岁，需要开启个人事业。",
+      "intro": "35岁不是危机，而是分水岭。\n\n我们好像听过很多类似“35岁危机”的说法也确确实实看到很多人在35岁遇到的窘迫，但是这是不是片面的呢？\n\n其实我们只关注到了大多数芸芸众生（弱者）的境遇，殊不知强者在这个节点已经“起飞”。------【强的人在35岁】这节点进入“非线性增长”，【弱的人在35岁】才算是遇到了“危机”。\n\n35岁后，别只顾着打工了。\n是时候修一条自己的路了。\n别人的路再宽，终究是通向他处。\n这句话读到的时候，很多人会停一下。它说中了一件事：你不是不努力，是努力了这么多年，路还是别人的。",
+      "cover": "http://i1.hdslb.com/bfs/archive/c74abef88c66dbb8ca6bae4d1d6b3b0718072d73.jpg",
+      "author": "个人提升宝典",
+      "ctime": 1782540656,
+      "audio": {
+        "size": 5967531,
+        "file": "BV1Dh7n6WE73.m4a"
       }
     }
   }

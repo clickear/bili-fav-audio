@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i2.hdslb.com/bfs/archive/e1205c461e0d96b3f2d40b04c094b21cbbb9cd72.jpg",
+    "cover": "http://i2.hdslb.com/bfs/archive/5442b927565c01c5b2948010e8b177c1a1fcb76d.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 242,
+    "media_count": 243,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2576,6 +2576,18 @@
       "audio": {
         "size": 5967531,
         "file": "BV1Dh7n6WE73.m4a"
+      }
+    },
+    "BV1dsjz6jEEk": {
+      "bvid": "BV1dsjz6jEEk",
+      "title": "纳瓦尔:对目标长久坚持的秘密。",
+      "intro": "纳瓦尔:对目标长久坚持的秘密。\n\n一起通过《纳瓦尔宝典》的纳瓦尔，来一起深入了解【你没办法坚持下来的真正原因】。\n\n用这招，对付你的拖延症，摆脱平庸之井，永远不停息。",
+      "cover": "http://i2.hdslb.com/bfs/archive/5442b927565c01c5b2948010e8b177c1a1fcb76d.jpg",
+      "author": "个人提升宝典",
+      "ctime": 1781862094,
+      "audio": {
+        "size": 6970161,
+        "file": "BV1dsjz6jEEk.m4a"
       }
     }
   }

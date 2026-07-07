@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i2.hdslb.com/bfs/archive/5442b927565c01c5b2948010e8b177c1a1fcb76d.jpg",
+    "cover": "http://i2.hdslb.com/bfs/archive/42ec56455181b5f4326521d8734d085e3119f0aa.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 243,
+    "media_count": 244,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2588,6 +2588,18 @@
       "audio": {
         "size": 6970161,
         "file": "BV1dsjz6jEEk.m4a"
+      }
+    },
+    "BV1jTbezmEyP": {
+      "bvid": "BV1jTbezmEyP",
+      "title": "大乘真经——小学心算大法，超越计算器，亲测有效#数学思维训练#小学数学#奥数#大乘法口诀",
+      "intro": "视频号",
+      "cover": "http://i2.hdslb.com/bfs/archive/42ec56455181b5f4326521d8734d085e3119f0aa.jpg",
+      "author": "80697395663_bili",
+      "ctime": 1755088538,
+      "audio": {
+        "size": 4651679,
+        "file": "BV1jTbezmEyP.m4a"
       }
     }
   }

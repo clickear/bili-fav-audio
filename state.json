@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i2.hdslb.com/bfs/archive/42ec56455181b5f4326521d8734d085e3119f0aa.jpg",
+    "cover": "http://i1.hdslb.com/bfs/archive/f4016a9a1009059773fbe13b07ca091134c02879.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 244,
+    "media_count": 246,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2600,6 +2600,30 @@
       "audio": {
         "size": 4651679,
         "file": "BV1jTbezmEyP.m4a"
+      }
+    },
+    "BV19ETC6eEoE": {
+      "bvid": "BV19ETC6eEoE",
+      "title": "不要过分关注“语调”，你的问题可能出在节奏上",
+      "intro": "",
+      "cover": "http://i1.hdslb.com/bfs/archive/f4016a9a1009059773fbe13b07ca091134c02879.jpg",
+      "author": "英语影视配音员孙志立",
+      "ctime": 1783249914,
+      "audio": {
+        "size": 3265060,
+        "file": "BV19ETC6eEoE.m4a"
+      }
+    },
+    "BV1mzMb6mEcd": {
+      "bvid": "BV1mzMb6mEcd",
+      "title": "原来英语音标这么简单。",
+      "intro": "原来英语音标这么简单。",
+      "cover": "http://i2.hdslb.com/bfs/archive/22234d4c180616b9fb4e304e81ae66aec909e207.jpg",
+      "author": "俊杰老师精讲英语",
+      "ctime": 1783423319,
+      "audio": {
+        "size": 42443823,
+        "file": "BV1mzMb6mEcd.m4a"
       }
     }
   }

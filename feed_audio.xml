@@ -5,9 +5,29 @@
     <link>https://space.bilibili.com/108635541/favlist?fid=55743041</link>
     <description>默认收藏夹 - 音频</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 07 Jul 2026 14:19:58 +0000</lastBuildDate>
-    <itunes:image href="http://i2.hdslb.com/bfs/archive/42ec56455181b5f4326521d8734d085e3119f0aa.jpg"/>
+    <lastBuildDate>Tue, 07 Jul 2026 19:49:11 +0000</lastBuildDate>
+    <itunes:image href="http://i1.hdslb.com/bfs/archive/f4016a9a1009059773fbe13b07ca091134c02879.jpg"/>
     <itunes:author>bilibili</itunes:author>
+    <item>
+      <title>原来英语音标这么简单。</title>
+      <link>https://www.bilibili.com/video/BV1mzMb6mEcd</link>
+      <guid isPermaLink="false">BV1mzMb6mEcd-audio</guid>
+      <pubDate>Tue, 07 Jul 2026 11:21:59 +0000</pubDate>
+      <author>俊杰老师精讲英语</author>
+      <description>原来英语音标这么简单。</description>
+      <itunes:image href="http://i2.hdslb.com/bfs/archive/22234d4c180616b9fb4e304e81ae66aec909e207.jpg"/>
+      <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1mzMb6mEcd.m4a" type="audio/mp4" length="42443823"/>
+    </item>
+    <item>
+      <title>不要过分关注“语调”，你的问题可能出在节奏上</title>
+      <link>https://www.bilibili.com/video/BV19ETC6eEoE</link>
+      <guid isPermaLink="false">BV19ETC6eEoE-audio</guid>
+      <pubDate>Sun, 05 Jul 2026 11:11:54 +0000</pubDate>
+      <author>英语影视配音员孙志立</author>
+      <description></description>
+      <itunes:image href="http://i1.hdslb.com/bfs/archive/f4016a9a1009059773fbe13b07ca091134c02879.jpg"/>
+      <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV19ETC6eEoE.m4a" type="audio/mp4" length="3265060"/>
+    </item>
     <item>
       <title>全70集《小学英语音标》 专门为小学生打造，从基础音标发音到拼读应用，循序渐进讲解。帮助孩子能够精准掌握发音规则，建立音形对应意识！！！</title>
       <link>https://www.bilibili.com/video/BV1N7TY6xEdL</link>

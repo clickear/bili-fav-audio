@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i1.hdslb.com/bfs/archive/f4016a9a1009059773fbe13b07ca091134c02879.jpg",
+    "cover": "http://i1.hdslb.com/bfs/archive/ada4841bbbd1b0e91cac97505873178e451f8016.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -17,7 +17,7 @@
     "cover_type": 2,
     "cnt_info": {
       "collect": 0,
-      "play": 26,
+      "play": 27,
       "thumb_up": 0,
       "share": 0
     },
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 246,
+    "media_count": 247,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2624,6 +2624,18 @@
       "audio": {
         "size": 42443823,
         "file": "BV1mzMb6mEcd.m4a"
+      }
+    },
+    "BV1LsVT6jETk": {
+      "bvid": "BV1LsVT6jETk",
+      "title": "我做了可能是目前最好用的英语听力练习工具",
+      "intro": "官网地址 https://rehearlab.com",
+      "cover": "http://i1.hdslb.com/bfs/archive/ada4841bbbd1b0e91cac97505873178e451f8016.jpg",
+      "author": "彦龙的开发日记",
+      "ctime": 1779815216,
+      "audio": {
+        "size": 5870710,
+        "file": "BV1LsVT6jETk.m4a"
       }
     }
   }

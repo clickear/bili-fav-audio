@@ -5,8 +5,8 @@
     <link>https://space.bilibili.com/108635541/favlist?fid=55743041</link>
     <description>默认收藏夹 - 音频</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 08 Jul 2026 13:51:31 +0000</lastBuildDate>
-    <itunes:image href="http://i1.hdslb.com/bfs/archive/f4016a9a1009059773fbe13b07ca091134c02879.jpg"/>
+    <lastBuildDate>Wed, 08 Jul 2026 19:17:59 +0000</lastBuildDate>
+    <itunes:image href="http://i1.hdslb.com/bfs/archive/ada4841bbbd1b0e91cac97505873178e451f8016.jpg"/>
     <itunes:author>bilibili</itunes:author>
     <item>
       <title>原来英语音标这么简单。</title>
@@ -320,6 +320,16 @@
 还能直接输出文档、PPT、视频等成果</description>
       <itunes:image href="http://i0.hdslb.com/bfs/archive/75888171ce068f48daa5cfa1a16770b7610e50f8.jpg"/>
       <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1MJVb6cETR.m4a" type="audio/mp4" length="17264104"/>
+    </item>
+    <item>
+      <title>我做了可能是目前最好用的英语听力练习工具</title>
+      <link>https://www.bilibili.com/video/BV1LsVT6jETk</link>
+      <guid isPermaLink="false">BV1LsVT6jETk-audio</guid>
+      <pubDate>Tue, 26 May 2026 17:06:56 +0000</pubDate>
+      <author>彦龙的开发日记</author>
+      <description>官网地址 https://rehearlab.com</description>
+      <itunes:image href="http://i1.hdslb.com/bfs/archive/ada4841bbbd1b0e91cac97505873178e451f8016.jpg"/>
+      <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1LsVT6jETk.m4a" type="audio/mp4" length="5870710"/>
     </item>
     <item>
       <title>瞬间搞定英语听力和口语，跟字幕说拜拜</title>

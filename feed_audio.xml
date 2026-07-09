@@ -5,8 +5,8 @@
     <link>https://space.bilibili.com/108635541/favlist?fid=55743041</link>
     <description>默认收藏夹 - 音频</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 09 Jul 2026 14:47:14 +0000</lastBuildDate>
-    <itunes:image href="http://i1.hdslb.com/bfs/archive/ada4841bbbd1b0e91cac97505873178e451f8016.jpg"/>
+    <lastBuildDate>Thu, 09 Jul 2026 19:38:12 +0000</lastBuildDate>
+    <itunes:image href="http://i1.hdslb.com/bfs/archive/2bd53fa0dc6e79fb8440c7cb740abc82ed0bcbfa.jpg"/>
     <itunes:author>bilibili</itunes:author>
     <item>
       <title>原来英语音标这么简单。</title>
@@ -57,6 +57,16 @@
       <description>2026最新孙志立新概念第一册孙志立自然拼读课孙志立会说话的句型课孙志立英语口语每天练100讲孙志立音标50讲孙志立新概念第二册孙志立音标孙志立听力100讲 适合初学者和小学生的自然拼读课，听完看到单词就会读的好课程。</description>
       <itunes:image href="http://i0.hdslb.com/bfs/archive/ead34bfe5c4b8f3f6544512314d8ee470e2add13.jpg"/>
       <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1V7Tu6MEfd.m4a" type="audio/mp4" length="12038767"/>
+    </item>
+    <item>
+      <title>我专门为阅读开发的一款 web 应用，绝对好用！！这是使用指南</title>
+      <link>https://www.bilibili.com/video/BV1wwTu6EEg3</link>
+      <guid isPermaLink="false">BV1wwTu6EEg3-audio</guid>
+      <pubDate>Sun, 28 Jun 2026 07:32:15 +0000</pubDate>
+      <author>逃离平庸</author>
+      <description>这是给后面的读书会和阅读网站会员准备的使用指南</description>
+      <itunes:image href="http://i0.hdslb.com/bfs/archive/0caab660358076e19633ad49cb66e8726d5317b5.jpg"/>
+      <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1wwTu6EEg3.m4a" type="audio/mp4" length="8857532"/>
     </item>
     <item>
       <title>6月25日，山东，“语文往外看，英语往前看，数学往后看”，女生分享：学霸成绩好，记住这15个字，语文扩展阅读，英语从小练习，数学打牢。</title>
@@ -370,6 +380,21 @@
 作者：The English Class</description>
       <itunes:image href="http://i0.hdslb.com/bfs/archive/3c9b2e6dcbe5e693a559756be18dcd7798ecf533.jpg"/>
       <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV16iGi6qExk.m4a" type="audio/mp4" length="6021347"/>
+    </item>
+    <item>
+      <title>remymo——让英语学习无处不在（插件功能展示）</title>
+      <link>https://www.bilibili.com/video/BV1UoGe6LEex</link>
+      <guid isPermaLink="false">BV1UoGe6LEex-audio</guid>
+      <pubDate>Sat, 23 May 2026 04:32:13 +0000</pubDate>
+      <author>remymo</author>
+      <description>插件获取：
+(edge扩展商店)https://microsoftedge.microsoft.com/addons/detail/remymo%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%8A%A9%E6%89%8B/pppmmdilkhbbjlkbimlkppaneecohggi
+
+(123云盘)https://1848850199.share.123865.com/123pan/2gO9vd-fV0R3
+
+(夸克网盘)https://pan.quark.cn/s/f</description>
+      <itunes:image href="http://i1.hdslb.com/bfs/archive/2bd53fa0dc6e79fb8440c7cb740abc82ed0bcbfa.jpg"/>
+      <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1UoGe6LEex.m4a" type="audio/mp4" length="585858"/>
     </item>
     <item>
       <title>小学语文四年级下-囊萤夜读（文言文）</title>
@@ -961,6 +986,19 @@ https://github.com/affaan-m/everything-claude-code</description>
 油管最好的英语播客 | 中阶版 | 适合每天磨耳朵，绝佳的英语学习听力素材！</description>
       <itunes:image href="http://i0.hdslb.com/bfs/archive/3560ac5b41e420e223d2f398939aaf1aaccba242.jpg"/>
       <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1YybNzfELa.m4a" type="audio/mp4" length="7638832"/>
+    </item>
+    <item>
+      <title>被吐槽英语差，于是做了个Agent苦学英语｜MCP｜Agent</title>
+      <link>https://www.bilibili.com/video/BV1Zv8FzWEab</link>
+      <guid isPermaLink="false">BV1Zv8FzWEab-audio</guid>
+      <pubDate>Wed, 23 Jul 2025 08:50:11 +0000</pubDate>
+      <author>不正经的前端啊</author>
+      <description>尝试去开发MCP Server、或者基于MCP开发Agent远比单纯使用MCP Server、Agent要有意思的多，结合AI Coding从0开发一个Agent并没有那么难，没有开发基础的同学也可以去尝试，让灵光一闪的想法快速落地，这正是Vibe Coding的乐趣所在！而参与比赛一定程度上可以验证想法的可行性，也可以收集到一些真实反馈。
+
+小助手在线试玩：https://modelscope.cn/studios/isboyjc/le-agent
+MCP Server Demo：https://git</description>
+      <itunes:image href="http://i1.hdslb.com/bfs/archive/6b38c5e17d9445e53ed419533706b67f346d180f.jpg"/>
+      <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1Zv8FzWEab.m4a" type="audio/mp4" length="7235737"/>
     </item>
     <item>
       <title>大家找暑假工千万不要去招聘平台</title>

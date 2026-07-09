@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i1.hdslb.com/bfs/archive/ada4841bbbd1b0e91cac97505873178e451f8016.jpg",
+    "cover": "http://i1.hdslb.com/bfs/archive/2bd53fa0dc6e79fb8440c7cb740abc82ed0bcbfa.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 247,
+    "media_count": 250,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2636,6 +2636,42 @@
       "audio": {
         "size": 5870710,
         "file": "BV1LsVT6jETk.m4a"
+      }
+    },
+    "BV1UoGe6LEex": {
+      "bvid": "BV1UoGe6LEex",
+      "title": "remymo——让英语学习无处不在（插件功能展示）",
+      "intro": "插件获取：\n(edge扩展商店)https://microsoftedge.microsoft.com/addons/detail/remymo%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%8A%A9%E6%89%8B/pppmmdilkhbbjlkbimlkppaneecohggi\n\n(123云盘)https://1848850199.share.123865.com/123pan/2gO9vd-fV0R3\n\n(夸克网盘)https://pan.quark.cn/s/f",
+      "cover": "http://i1.hdslb.com/bfs/archive/2bd53fa0dc6e79fb8440c7cb740abc82ed0bcbfa.jpg",
+      "author": "remymo",
+      "ctime": 1779510733,
+      "audio": {
+        "size": 585858,
+        "file": "BV1UoGe6LEex.m4a"
+      }
+    },
+    "BV1wwTu6EEg3": {
+      "bvid": "BV1wwTu6EEg3",
+      "title": "我专门为阅读开发的一款 web 应用，绝对好用！！这是使用指南",
+      "intro": "这是给后面的读书会和阅读网站会员准备的使用指南",
+      "cover": "http://i0.hdslb.com/bfs/archive/0caab660358076e19633ad49cb66e8726d5317b5.jpg",
+      "author": "逃离平庸",
+      "ctime": 1782631935,
+      "audio": {
+        "size": 8857532,
+        "file": "BV1wwTu6EEg3.m4a"
+      }
+    },
+    "BV1Zv8FzWEab": {
+      "bvid": "BV1Zv8FzWEab",
+      "title": "被吐槽英语差，于是做了个Agent苦学英语｜MCP｜Agent",
+      "intro": "尝试去开发MCP Server、或者基于MCP开发Agent远比单纯使用MCP Server、Agent要有意思的多，结合AI Coding从0开发一个Agent并没有那么难，没有开发基础的同学也可以去尝试，让灵光一闪的想法快速落地，这正是Vibe Coding的乐趣所在！而参与比赛一定程度上可以验证想法的可行性，也可以收集到一些真实反馈。\n\n小助手在线试玩：https://modelscope.cn/studios/isboyjc/le-agent\nMCP Server Demo：https://git",
+      "cover": "http://i1.hdslb.com/bfs/archive/6b38c5e17d9445e53ed419533706b67f346d180f.jpg",
+      "author": "不正经的前端啊",
+      "ctime": 1753260611,
+      "audio": {
+        "size": 7235737,
+        "file": "BV1Zv8FzWEab.m4a"
       }
     }
   }

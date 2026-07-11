@@ -5,8 +5,8 @@
     <link>https://space.bilibili.com/108635541/favlist?fid=55743041</link>
     <description>默认收藏夹 - 音频</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 11 Jul 2026 13:07:07 +0000</lastBuildDate>
-    <itunes:image href="http://i1.hdslb.com/bfs/archive/88544f06b04fc1ba1c518e398bdbaa23ee358003.jpg"/>
+    <lastBuildDate>Sat, 11 Jul 2026 18:54:47 +0000</lastBuildDate>
+    <itunes:image href="http://i1.hdslb.com/bfs/archive/05952d27358d90d617b6d6a9b9b60f0c66558183.jpg"/>
     <itunes:author>bilibili</itunes:author>
     <item>
       <title>菰米消失全赖茭白？菰米复生茭白咋办？【主播说三农】</title>
@@ -27,6 +27,16 @@
       <description>原来英语音标这么简单。</description>
       <itunes:image href="http://i2.hdslb.com/bfs/archive/22234d4c180616b9fb4e304e81ae66aec909e207.jpg"/>
       <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1mzMb6mEcd.m4a" type="audio/mp4" length="42443823"/>
+    </item>
+    <item>
+      <title>当“顶级”反应遇到“顶级”快枪手时…</title>
+      <link>https://www.bilibili.com/video/BV1ppT96kEsw</link>
+      <guid isPermaLink="false">BV1ppT96kEsw-audio</guid>
+      <pubDate>Mon, 06 Jul 2026 13:29:57 +0000</pubDate>
+      <author>练就有用_</author>
+      <description>-</description>
+      <itunes:image href="http://i1.hdslb.com/bfs/archive/05952d27358d90d617b6d6a9b9b60f0c66558183.jpg"/>
+      <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1ppT96kEsw.m4a" type="audio/mp4" length="498091"/>
     </item>
     <item>
       <title>不要过分关注“语调”，你的问题可能出在节奏上</title>

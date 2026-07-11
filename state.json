@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i1.hdslb.com/bfs/archive/88544f06b04fc1ba1c518e398bdbaa23ee358003.jpg",
+    "cover": "http://i1.hdslb.com/bfs/archive/05952d27358d90d617b6d6a9b9b60f0c66558183.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -17,7 +17,7 @@
     "cover_type": 2,
     "cnt_info": {
       "collect": 0,
-      "play": 32,
+      "play": 34,
       "thumb_up": 0,
       "share": 0
     },
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 251,
+    "media_count": 252,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2684,6 +2684,18 @@
       "audio": {
         "size": 4766724,
         "file": "BV1JBMn6jEkY.m4a"
+      }
+    },
+    "BV1ppT96kEsw": {
+      "bvid": "BV1ppT96kEsw",
+      "title": "当“顶级”反应遇到“顶级”快枪手时…",
+      "intro": "-",
+      "cover": "http://i1.hdslb.com/bfs/archive/05952d27358d90d617b6d6a9b9b60f0c66558183.jpg",
+      "author": "练就有用_",
+      "ctime": 1783344597,
+      "audio": {
+        "size": 498091,
+        "file": "BV1ppT96kEsw.m4a"
       }
     }
   }

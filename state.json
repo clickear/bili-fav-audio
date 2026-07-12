@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i1.hdslb.com/bfs/archive/05952d27358d90d617b6d6a9b9b60f0c66558183.jpg",
+    "cover": "http://i2.hdslb.com/bfs/archive/0e6f1be23b3604f35c6d7269cd22f92c126bd1c8.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 252,
+    "media_count": 254,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2696,6 +2696,18 @@
       "audio": {
         "size": 498091,
         "file": "BV1ppT96kEsw.m4a"
+      }
+    },
+    "BV1qdjG63Exo": {
+      "bvid": "BV1qdjG63Exo",
+      "title": "《天才的学习方法》：反复看书做笔记，可能是最低效的学习方式",
+      "intro": "#好书分享 #个人成长 #认知觉醒 #涨知识 #学习方法 #高效学习 #备考干货 #脑科学 #读书笔记\n\n【视频简介】\n你有没有这种经历：书看了一遍又一遍，笔记做了厚厚一本，考试或用的时候还是脑子空白？问题不是你不努力，是你用的方式，大脑根本不买账。这期视频聊的就是那个大多数人从没被纠正过的学习误区——\"输入感\"≠\"记住了\"。看完你会知道，为什么主动回忆比反复看书强十倍，间隔重复比临时突击管用百倍，以及今晚就能用的一个最小动作。\n\n【书籍信息】\n《天才的学习方法》| 朱利奥·迪安杰里\n\n【本期你将看到】\n",
+      "cover": "http://i2.hdslb.com/bfs/archive/0e6f1be23b3604f35c6d7269cd22f92c126bd1c8.jpg",
+      "author": "书籍老师你好",
+      "ctime": 1781621750,
+      "audio": {
+        "size": 7608248,
+        "file": "BV1qdjG63Exo.m4a"
       }
     }
   }

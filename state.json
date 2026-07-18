@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i0.hdslb.com/bfs/archive/fe327b42a49394d51bac039814fbe7c959f078fc.jpg",
+    "cover": "http://i1.hdslb.com/bfs/archive/9af6d420349205209be78583e5604037fb1aff94.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 255,
+    "media_count": 256,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2720,6 +2720,18 @@
       "audio": {
         "size": 10889268,
         "file": "BV1WKTe6QEAX.m4a"
+      }
+    },
+    "BV1Bn5B6VEu5": {
+      "bvid": "BV1Bn5B6VEu5",
+      "title": "“电费不要钱？？”英国情侣半夜到中国，一进城直接看懵了：这是真实世界？",
+      "intro": "博主：Bevetravels\n国家：英国\n订阅：15.9万\n发布： 2026年3月31日\n译制：B站﻿﻿@Tube-CC",
+      "cover": "http://i1.hdslb.com/bfs/archive/9af6d420349205209be78583e5604037fb1aff94.jpg",
+      "author": "Tube-CC",
+      "ctime": 1778869628,
+      "audio": {
+        "size": 41861807,
+        "file": "BV1Bn5B6VEu5.m4a"
       }
     }
   }

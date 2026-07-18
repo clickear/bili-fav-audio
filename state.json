@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i2.hdslb.com/bfs/archive/0e6f1be23b3604f35c6d7269cd22f92c126bd1c8.jpg",
+    "cover": "http://i0.hdslb.com/bfs/archive/fe327b42a49394d51bac039814fbe7c959f078fc.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 254,
+    "media_count": 255,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2708,6 +2708,18 @@
       "audio": {
         "size": 7608248,
         "file": "BV1qdjG63Exo.m4a"
+      }
+    },
+    "BV1WKTe6QEAX": {
+      "bvid": "BV1WKTe6QEAX",
+      "title": "炸雷！老外第一次体验湘西炸虫配白酒，两人表情全程失控！！",
+      "intro": "老外视角如何看待PUA ？up自爆自媒体创业辛酸史竟受到老外雷霆鼓励？来自 FE 赛事英国情侣交换美好\n兄弟们标题写的费脑子啊。。。。",
+      "cover": "http://i0.hdslb.com/bfs/archive/fe327b42a49394d51bac039814fbe7c959f078fc.jpg",
+      "author": "覃公子Ciron",
+      "ctime": 1782879235,
+      "audio": {
+        "size": 10889268,
+        "file": "BV1WKTe6QEAX.m4a"
       }
     }
   }

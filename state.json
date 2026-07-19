@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i2.hdslb.com/bfs/archive/1f372e33dc6abe6d1558f8057095b08dba41b447.jpg",
+    "cover": "http://i0.hdslb.com/bfs/archive/f6051dc4cf058b3cae361ad23b256d26d87538da.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 257,
+    "media_count": 259,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2744,6 +2744,30 @@
       "audio": {
         "size": 15282753,
         "file": "BV1NLNz6PEYN.m4a"
+      }
+    },
+    "BV1fv98BEEem": {
+      "bvid": "BV1fv98BEEem",
+      "title": "我终于学会了如何不看字幕理解英文电影",
+      "intro": "你是否曾经尝试过不看字幕看英文电影，结果完全跟不上？\n\n你认识那些单词。你学过语法。但电影听起来还是太快、太令人困惑。\n\n在这个视频中，我分享了我最终如何学会不看字幕理解英文电影——不是靠学更多语法，不是靠背单词，而是通过正确的方式训练我的耳朵。\n\n你将发现：\n\n• 为什么字幕会拖慢你的听力进步\n• 英语学习者在看电影时犯的最大错误\n• 一种使用短电影片段的简单日常方法\n• 如何训练你的耳朵，而不是你的眼睛\n• 为什么理解先于词汇\n\n这不是一堂教科书式的课。\n\n这是一种真实的、实用的方法，任何人都可以使用",
+      "cover": "http://i0.hdslb.com/bfs/archive/f6051dc4cf058b3cae361ad23b256d26d87538da.jpg",
+      "author": "brickbybrick",
+      "ctime": 1777531386,
+      "audio": {
+        "size": 2412030,
+        "file": "BV1fv98BEEem.m4a"
+      }
+    },
+    "BV1VBKi6yEQF": {
+      "bvid": "BV1VBKi6yEQF",
+      "title": "坚持英语听读100 天✊ ｜我的家庭🧑‍🧑‍🧒精选英语小篇章 | 有力助推孩子听读水平及语感养成并肩学习📑 共同进取👌每天坚持半小时 💪",
+      "intro": "-",
+      "cover": "http://i2.hdslb.com/bfs/archive/c3e2ba2ef2af68264d01103f414b35a1947a0091.jpg",
+      "author": "玥玥英语阅读",
+      "ctime": 1784420831,
+      "audio": {
+        "size": 192376,
+        "file": "BV1VBKi6yEQF.m4a"
       }
     }
   }

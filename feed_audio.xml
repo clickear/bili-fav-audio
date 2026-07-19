@@ -5,7 +5,7 @@
     <link>https://space.bilibili.com/108635541/favlist?fid=55743041</link>
     <description>默认收藏夹 - 音频</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 19 Jul 2026 08:07:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 13:05:28 +0000</lastBuildDate>
     <itunes:image href="http://i2.hdslb.com/bfs/archive/1f372e33dc6abe6d1558f8057095b08dba41b447.jpg"/>
     <itunes:author>bilibili</itunes:author>
     <item>
@@ -1249,7 +1249,7 @@ MCP Server Demo：https://git</description>
       <link>https://www.bilibili.com/video/BV1xUimYGEtP</link>
       <guid isPermaLink="false">BV1xUimYGEtP-audio</guid>
       <pubDate>Wed, 04 Dec 2024 14:19:18 +0000</pubDate>
-      <author>闫哥大数据</author>
+      <author>闫哥大数据大模型</author>
       <description>为什么说这个项目是一个被低估的项目呢，因为这里面的指标都是比较通用的指标，特别是用户的行为域的数据分析，比如：数据清洗，session分割、数据集成、连续登录，连续沉默，漏斗分析，归因分析、多维分析，留存分析，拉链表，spark中的广播变量、累加器、自定义函数等都有涉猎，而这些做法，不管是什么类型的数仓，都比较需要。对于想换工作的，或者想提升数仓的小伙伴希望有所帮助。还是老提醒：随堂录制，比较糙，1.5倍速播放，不喜勿喷。</description>
       <itunes:image href="http://i1.hdslb.com/bfs/archive/1e8fbfaec9ad4b64847063b76280d9a6ff38391c.png"/>
       <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1xUimYGEtP.m4a" type="audio/mp4" length="6406623"/>

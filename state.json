@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i0.hdslb.com/bfs/archive/f6051dc4cf058b3cae361ad23b256d26d87538da.jpg",
+    "cover": "http://i0.hdslb.com/bfs/archive/cfee720e30e712792be6c60126a7989318f1c7b2.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 259,
+    "media_count": 260,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2768,6 +2768,18 @@
       "audio": {
         "size": 192376,
         "file": "BV1VBKi6yEQF.m4a"
+      }
+    },
+    "BV1QKZFBhEhC": {
+      "bvid": "BV1QKZFBhEhC",
+      "title": "外企英文会议，你能听懂多少？DAY 16",
+      "intro": "外企英文会议，你能听懂多少？DAY 16",
+      "cover": "http://i0.hdslb.com/bfs/archive/cfee720e30e712792be6c60126a7989318f1c7b2.jpg",
+      "author": "Max在外企",
+      "ctime": 1777175191,
+      "audio": {
+        "size": 4224523,
+        "file": "BV1QKZFBhEhC.m4a"
       }
     }
   }

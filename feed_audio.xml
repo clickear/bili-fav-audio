@@ -5,8 +5,8 @@
     <link>https://space.bilibili.com/108635541/favlist?fid=55743041</link>
     <description>默认收藏夹 - 音频</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 23 Jul 2026 08:22:18 +0000</lastBuildDate>
-    <itunes:image href="http://i0.hdslb.com/bfs/archive/f6051dc4cf058b3cae361ad23b256d26d87538da.jpg"/>
+    <lastBuildDate>Thu, 23 Jul 2026 13:47:42 +0000</lastBuildDate>
+    <itunes:image href="http://i0.hdslb.com/bfs/archive/cfee720e30e712792be6c60126a7989318f1c7b2.jpg"/>
     <itunes:author>bilibili</itunes:author>
     <item>
       <title>坚持英语听读100 天✊ ｜我的家庭🧑‍🧑‍🧒精选英语小篇章 | 有力助推孩子听读水平及语感养成并肩学习📑 共同进取👌每天坚持半小时 💪</title>
@@ -688,6 +688,16 @@
       <description>#大模型 #ai编程 #claudecode</description>
       <itunes:image href="http://i2.hdslb.com/bfs/archive/36e80fd3abd3dc6238114da3747253eddde20f51.jpg"/>
       <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1RgoCB9EQZ.m4a" type="audio/mp4" length="3752019"/>
+    </item>
+    <item>
+      <title>外企英文会议，你能听懂多少？DAY 16</title>
+      <link>https://www.bilibili.com/video/BV1QKZFBhEhC</link>
+      <guid isPermaLink="false">BV1QKZFBhEhC-audio</guid>
+      <pubDate>Sun, 26 Apr 2026 03:46:31 +0000</pubDate>
+      <author>Max在外企</author>
+      <description>外企英文会议，你能听懂多少？DAY 16</description>
+      <itunes:image href="http://i0.hdslb.com/bfs/archive/cfee720e30e712792be6c60126a7989318f1c7b2.jpg"/>
+      <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1QKZFBhEhC.m4a" type="audio/mp4" length="4224523"/>
     </item>
     <item>
       <title>别光问AI了，反向操作才是王炸，这是我10倍速阅读的三大心法和提示词～当会用AI不再稀缺，AI时代真正拉开差距的是什么？</title>

@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i2.hdslb.com/bfs/archive/d0821bb1a738a3f55a91e5173a505acea27ee9f2.jpg",
+    "cover": "http://i2.hdslb.com/bfs/archive/df5944005faf3d337fe64d25b12530269eff8a98.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 262,
+    "media_count": 263,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2804,6 +2804,18 @@
       "audio": {
         "size": 202450,
         "file": "BV1xZgQ6DEjY.m4a"
+      }
+    },
+    "BV1bWNi6cEED": {
+      "bvid": "BV1bWNi6cEED",
+      "title": "如何提高英语写作水平（",
+      "intro": "",
+      "cover": "http://i2.hdslb.com/bfs/archive/df5944005faf3d337fe64d25b12530269eff8a98.jpg",
+      "author": "FunEnglishAlex",
+      "ctime": 1784115398,
+      "audio": {
+        "size": 2949355,
+        "file": "BV1bWNi6cEED.m4a"
       }
     }
   }

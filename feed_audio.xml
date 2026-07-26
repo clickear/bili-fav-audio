@@ -5,8 +5,8 @@
     <link>https://space.bilibili.com/108635541/favlist?fid=55743041</link>
     <description>默认收藏夹 - 音频</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 26 Jul 2026 02:14:26 +0000</lastBuildDate>
-    <itunes:image href="http://i2.hdslb.com/bfs/archive/d0821bb1a738a3f55a91e5173a505acea27ee9f2.jpg"/>
+    <lastBuildDate>Sun, 26 Jul 2026 08:17:26 +0000</lastBuildDate>
+    <itunes:image href="http://i2.hdslb.com/bfs/archive/df5944005faf3d337fe64d25b12530269eff8a98.jpg"/>
     <itunes:author>bilibili</itunes:author>
     <item>
       <title>国家免费开放的补课平台，一年级到高三学科都有，不用花一分钱，没有任何广告</title>
@@ -53,6 +53,16 @@
 想看中文字</description>
       <itunes:image href="http://i2.hdslb.com/bfs/archive/1f372e33dc6abe6d1558f8057095b08dba41b447.jpg"/>
       <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1NLNz6PEYN.m4a" type="audio/mp4" length="15282753"/>
+    </item>
+    <item>
+      <title>如何提高英语写作水平（</title>
+      <link>https://www.bilibili.com/video/BV1bWNi6cEED</link>
+      <guid isPermaLink="false">BV1bWNi6cEED-audio</guid>
+      <pubDate>Wed, 15 Jul 2026 11:36:38 +0000</pubDate>
+      <author>FunEnglishAlex</author>
+      <description></description>
+      <itunes:image href="http://i2.hdslb.com/bfs/archive/df5944005faf3d337fe64d25b12530269eff8a98.jpg"/>
+      <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1bWNi6cEED.m4a" type="audio/mp4" length="2949355"/>
     </item>
     <item>
       <title>菰米消失全赖茭白？菰米复生茭白咋办？【主播说三农】</title>

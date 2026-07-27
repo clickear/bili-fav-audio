@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i2.hdslb.com/bfs/archive/df5944005faf3d337fe64d25b12530269eff8a98.jpg",
+    "cover": "http://i1.hdslb.com/bfs/archive/10ac335e16b83b7a061bbc5dc08d2f5b7fff45d4.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 263,
+    "media_count": 264,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2816,6 +2816,18 @@
       "audio": {
         "size": 2949355,
         "file": "BV1bWNi6cEED.m4a"
+      }
+    },
+    "BV1HfKu6jEuu": {
+      "bvid": "BV1HfKu6jEuu",
+      "title": "怎么让人说话变得有趣呢？只要你改个视角就好了",
+      "intro": "怎么让人说话变得有趣呢？只要你改个视角就好了",
+      "cover": "http://i1.hdslb.com/bfs/archive/10ac335e16b83b7a061bbc5dc08d2f5b7fff45d4.jpg",
+      "author": "院长的觉醒录",
+      "ctime": 1784182144,
+      "audio": {
+        "size": 3410108,
+        "file": "BV1HfKu6jEuu.m4a"
       }
     }
   }

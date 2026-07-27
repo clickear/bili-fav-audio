@@ -5,8 +5,8 @@
     <link>https://space.bilibili.com/108635541/favlist?fid=55743041</link>
     <description>默认收藏夹 - 音频</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 27 Jul 2026 14:21:13 +0000</lastBuildDate>
-    <itunes:image href="http://i2.hdslb.com/bfs/archive/df5944005faf3d337fe64d25b12530269eff8a98.jpg"/>
+    <lastBuildDate>Mon, 27 Jul 2026 19:19:33 +0000</lastBuildDate>
+    <itunes:image href="http://i1.hdslb.com/bfs/archive/10ac335e16b83b7a061bbc5dc08d2f5b7fff45d4.jpg"/>
     <itunes:author>bilibili</itunes:author>
     <item>
       <title>国家免费开放的补课平台，一年级到高三学科都有，不用花一分钱，没有任何广告</title>
@@ -27,6 +27,16 @@
       <description>-</description>
       <itunes:image href="http://i2.hdslb.com/bfs/archive/c3e2ba2ef2af68264d01103f414b35a1947a0091.jpg"/>
       <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1VBKi6yEQF.m4a" type="audio/mp4" length="192376"/>
+    </item>
+    <item>
+      <title>怎么让人说话变得有趣呢？只要你改个视角就好了</title>
+      <link>https://www.bilibili.com/video/BV1HfKu6jEuu</link>
+      <guid isPermaLink="false">BV1HfKu6jEuu-audio</guid>
+      <pubDate>Thu, 16 Jul 2026 06:09:04 +0000</pubDate>
+      <author>院长的觉醒录</author>
+      <description>怎么让人说话变得有趣呢？只要你改个视角就好了</description>
+      <itunes:image href="http://i1.hdslb.com/bfs/archive/10ac335e16b83b7a061bbc5dc08d2f5b7fff45d4.jpg"/>
+      <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1HfKu6jEuu.m4a" type="audio/mp4" length="3410108"/>
     </item>
     <item>
       <title>Stop Translating! Train Your Ear with Slow English Conversations | 像孩子一样学英文</title>

@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i1.hdslb.com/bfs/archive/10ac335e16b83b7a061bbc5dc08d2f5b7fff45d4.jpg",
+    "cover": "http://i2.hdslb.com/bfs/archive/347ed83fc8a8a2ba4a971da7281a271a1de6c675.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 264,
+    "media_count": 265,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2828,6 +2828,18 @@
       "audio": {
         "size": 3410108,
         "file": "BV1HfKu6jEuu.m4a"
+      }
+    },
+    "BV15WwxzSEMe": {
+      "bvid": "BV15WwxzSEMe",
+      "title": "大冰自用说话法，内向人直接抄作业!",
+      "intro": "-",
+      "cover": "http://i2.hdslb.com/bfs/archive/347ed83fc8a8a2ba4a971da7281a271a1de6c675.jpg",
+      "author": "冰叔小剧场",
+      "ctime": 1773479035,
+      "audio": {
+        "size": 20734995,
+        "file": "BV15WwxzSEMe.m4a"
       }
     }
   }

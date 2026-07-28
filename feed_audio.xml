@@ -5,8 +5,8 @@
     <link>https://space.bilibili.com/108635541/favlist?fid=55743041</link>
     <description>默认收藏夹 - 音频</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 27 Jul 2026 19:19:33 +0000</lastBuildDate>
-    <itunes:image href="http://i1.hdslb.com/bfs/archive/10ac335e16b83b7a061bbc5dc08d2f5b7fff45d4.jpg"/>
+    <lastBuildDate>Tue, 28 Jul 2026 02:05:20 +0000</lastBuildDate>
+    <itunes:image href="http://i2.hdslb.com/bfs/archive/347ed83fc8a8a2ba4a971da7281a271a1de6c675.jpg"/>
     <itunes:author>bilibili</itunes:author>
     <item>
       <title>国家免费开放的补课平台，一年级到高三学科都有，不用花一分钱，没有任何广告</title>
@@ -852,6 +852,16 @@ OpenAI的'推理模型之父'Jerry Tworek看完后激动地说：'我们可能�
       <description>gstack</description>
       <itunes:image href="http://i1.hdslb.com/bfs/archive/be4c3836d651febfddfdadf049eabf3f45e23698.jpg"/>
       <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1Suwoz8Exa.m4a" type="audio/mp4" length="1365330"/>
+    </item>
+    <item>
+      <title>大冰自用说话法，内向人直接抄作业!</title>
+      <link>https://www.bilibili.com/video/BV15WwxzSEMe</link>
+      <guid isPermaLink="false">BV15WwxzSEMe-audio</guid>
+      <pubDate>Sat, 14 Mar 2026 09:03:55 +0000</pubDate>
+      <author>冰叔小剧场</author>
+      <description>-</description>
+      <itunes:image href="http://i2.hdslb.com/bfs/archive/347ed83fc8a8a2ba4a971da7281a271a1de6c675.jpg"/>
+      <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV15WwxzSEMe.m4a" type="audio/mp4" length="20734995"/>
     </item>
     <item>
       <title>别再给AI定角色了，这两个方法更有效！#人工智能 #大模型 #AI #思维提升 #姜学长</title>

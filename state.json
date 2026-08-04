@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i2.hdslb.com/bfs/archive/deb6967200b18ac6025c40792847323988edb9df.jpg",
+    "cover": "http://i1.hdslb.com/bfs/archive/aa79232e5c5b00089443c1cf06e44068b0e505c9.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 266,
+    "media_count": 267,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2852,6 +2852,18 @@
       "audio": {
         "size": 6371218,
         "file": "BV1Q9KJ6bEYw.m4a"
+      }
+    },
+    "BV1J1NB69ECa": {
+      "bvid": "BV1J1NB69ECa",
+      "title": "架构师狂喜！说大白话就能画出精美架构图",
+      "intro": "GitHub 上快速蹿红的开源项目 Archify—— 用嘴就能画复杂架构图，一周涨近 1000⭐，现在已经 3800+ star🔥\nArchify 最关键的 5 点👇\n1️⃣ 一句大白话生成精美架构图，能装进 Claude / Cursor / Codex 等任意编码 agent\n2️⃣ 支持 5 种图：架构图、工作流图、时序图、数据流图、生命周期图\n3️⃣ 输出零依赖 HTML，深浅主题一键切换，导出 PNG/JPEG/WebP（最高 4 倍分辨率）+ SVG\n4️⃣ 能像聊天一样改图——「加个 Re",
+      "cover": "http://i1.hdslb.com/bfs/archive/aa79232e5c5b00089443c1cf06e44068b0e505c9.jpg",
+      "author": "源点PI",
+      "ctime": 1784125802,
+      "audio": {
+        "size": 1980800,
+        "file": "BV1J1NB69ECa.m4a"
       }
     }
   }

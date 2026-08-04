@@ -5,8 +5,8 @@
     <link>https://space.bilibili.com/108635541/favlist?fid=55743041</link>
     <description>默认收藏夹 - 音频</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 04 Aug 2026 13:57:47 +0000</lastBuildDate>
-    <itunes:image href="http://i2.hdslb.com/bfs/archive/deb6967200b18ac6025c40792847323988edb9df.jpg"/>
+    <lastBuildDate>Tue, 04 Aug 2026 19:23:56 +0000</lastBuildDate>
+    <itunes:image href="http://i1.hdslb.com/bfs/archive/aa79232e5c5b00089443c1cf06e44068b0e505c9.jpg"/>
     <itunes:author>bilibili</itunes:author>
     <item>
       <title>国家免费开放的补课平台，一年级到高三学科都有，不用花一分钱，没有任何广告</title>
@@ -47,6 +47,21 @@
       <description>怎么让人说话变得有趣呢？只要你改个视角就好了</description>
       <itunes:image href="http://i1.hdslb.com/bfs/archive/10ac335e16b83b7a061bbc5dc08d2f5b7fff45d4.jpg"/>
       <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1HfKu6jEuu.m4a" type="audio/mp4" length="3410108"/>
+    </item>
+    <item>
+      <title>架构师狂喜！说大白话就能画出精美架构图</title>
+      <link>https://www.bilibili.com/video/BV1J1NB69ECa</link>
+      <guid isPermaLink="false">BV1J1NB69ECa-audio</guid>
+      <pubDate>Wed, 15 Jul 2026 14:30:02 +0000</pubDate>
+      <author>源点PI</author>
+      <description>GitHub 上快速蹿红的开源项目 Archify—— 用嘴就能画复杂架构图，一周涨近 1000⭐，现在已经 3800+ star🔥
+Archify 最关键的 5 点👇
+1️⃣ 一句大白话生成精美架构图，能装进 Claude / Cursor / Codex 等任意编码 agent
+2️⃣ 支持 5 种图：架构图、工作流图、时序图、数据流图、生命周期图
+3️⃣ 输出零依赖 HTML，深浅主题一键切换，导出 PNG/JPEG/WebP（最高 4 倍分辨率）+ SVG
+4️⃣ 能像聊天一样改图——「加个 Re</description>
+      <itunes:image href="http://i1.hdslb.com/bfs/archive/aa79232e5c5b00089443c1cf06e44068b0e505c9.jpg"/>
+      <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1J1NB69ECa.m4a" type="audio/mp4" length="1980800"/>
     </item>
     <item>
       <title>Stop Translating! Train Your Ear with Slow English Conversations | 像孩子一样学英文</title>

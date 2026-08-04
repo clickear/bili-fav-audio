@@ -5,8 +5,8 @@
     <link>https://space.bilibili.com/108635541/favlist?fid=55743041</link>
     <description>默认收藏夹 - 音频</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 04 Aug 2026 02:01:10 +0000</lastBuildDate>
-    <itunes:image href="http://i2.hdslb.com/bfs/archive/347ed83fc8a8a2ba4a971da7281a271a1de6c675.jpg"/>
+    <lastBuildDate>Tue, 04 Aug 2026 08:29:21 +0000</lastBuildDate>
+    <itunes:image href="http://i2.hdslb.com/bfs/archive/deb6967200b18ac6025c40792847323988edb9df.jpg"/>
     <itunes:author>bilibili</itunes:author>
     <item>
       <title>国家免费开放的补课平台，一年级到高三学科都有，不用花一分钱，没有任何广告</title>
@@ -27,6 +27,16 @@
       <description>-</description>
       <itunes:image href="http://i2.hdslb.com/bfs/archive/c3e2ba2ef2af68264d01103f414b35a1947a0091.jpg"/>
       <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1VBKi6yEQF.m4a" type="audio/mp4" length="192376"/>
+    </item>
+    <item>
+      <title>低成本！搭建孩子专属私人成长影音库｜附懒人包➕清单，VidHub</title>
+      <link>https://www.bilibili.com/video/BV1Q9KJ6bEYw</link>
+      <guid isPermaLink="false">BV1Q9KJ6bEYw-audio</guid>
+      <pubDate>Fri, 17 Jul 2026 09:12:02 +0000</pubDate>
+      <author>阿雷课堂</author>
+      <description></description>
+      <itunes:image href="http://i2.hdslb.com/bfs/archive/deb6967200b18ac6025c40792847323988edb9df.jpg"/>
+      <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1Q9KJ6bEYw.m4a" type="audio/mp4" length="6371218"/>
     </item>
     <item>
       <title>怎么让人说话变得有趣呢？只要你改个视角就好了</title>

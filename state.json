@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i1.hdslb.com/bfs/archive/95b12f7094e2d3dfa30af9339129571a66cce5dc.png",
+    "cover": "http://i0.hdslb.com/bfs/archive/68ddbf345ede22339e474c2410b6de25d5abd5b6.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -17,7 +17,7 @@
     "cover_type": 2,
     "cnt_info": {
       "collect": 0,
-      "play": 38,
+      "play": 44,
       "thumb_up": 0,
       "share": 0
     },
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 270,
+    "media_count": 271,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2900,6 +2900,18 @@
       "audio": {
         "size": 6648251,
         "file": "BV1o7eqzNEX9.m4a"
+      }
+    },
+    "BV1vu3C6LEZw": {
+      "bvid": "BV1vu3C6LEZw",
+      "title": "英语听力训练的唯一正确顺序",
+      "intro": "",
+      "cover": "http://i0.hdslb.com/bfs/archive/68ddbf345ede22339e474c2410b6de25d5abd5b6.jpg",
+      "author": "尼克老师ProMax",
+      "ctime": 1785284990,
+      "audio": {
+        "size": 4270300,
+        "file": "BV1vu3C6LEZw.m4a"
       }
     }
   }

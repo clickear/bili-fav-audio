@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i1.hdslb.com/bfs/archive/aa79232e5c5b00089443c1cf06e44068b0e505c9.jpg",
+    "cover": "http://i1.hdslb.com/bfs/archive/95b12f7094e2d3dfa30af9339129571a66cce5dc.png",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 267,
+    "media_count": 270,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2864,6 +2864,42 @@
       "audio": {
         "size": 1980800,
         "file": "BV1J1NB69ECa.m4a"
+      }
+    },
+    "BV1cEQcY3E3m": {
+      "bvid": "BV1cEQcY3E3m",
+      "title": "全365节1-200【听力不好的刷这个】EnglishPod 365听力博客独家中英翻译版 可熏听可看字幕检验效果",
+      "intro": "温馨提示：\r\n此合集包含1-200，201-365节另外建视频合集。\r\n\r\nEnglishpod通过播讲的形式会让你听力大有提升。\r\n两位主播的速度相对于其他给母语者播讲的速度已经减慢了一些。\r\n长期大量的听力输入会对你的语感、发音、口语等等都有很好的提升。",
+      "cover": "http://i1.hdslb.com/bfs/archive/95b12f7094e2d3dfa30af9339129571a66cce5dc.png",
+      "author": "哈佛学霸圈",
+      "ctime": 1741841769,
+      "audio": {
+        "size": 3591782,
+        "file": "BV1cEQcY3E3m.m4a"
+      }
+    },
+    "BV1w7411g7jn": {
+      "bvid": "BV1w7411g7jn",
+      "title": "EnglishPod全新版【1-365期全文本+讲解】英语听力口语学习",
+      "intro": "EnglishPod全新制作版本：1-365期全版本嵌入版本+讲解，同步英语听力口语学习，详细文本及MP3音频下载请关注公众号：南柯英语，并回复‘Englishpod’。",
+      "cover": "http://i1.hdslb.com/bfs/archive/684314a58f514cf7f26bc3eec6e38894bdebb177.jpg",
+      "author": "南柯英语",
+      "ctime": 1581663760,
+      "audio": {
+        "size": 23655025,
+        "file": "BV1w7411g7jn.m4a"
+      }
+    },
+    "BV1o7eqzNEX9": {
+      "bvid": "BV1o7eqzNEX9",
+      "title": "全263节【油管爆火口语动画】JESSE English 动画英语基础会话练习 日常生活情境口语对话 从最简单的口语对话训练英语口语",
+      "intro": "油管\n全263节【油管爆火口语动画】JESSE English 动画英语基础会话练习 日常生活情境口语对话 从最简单的口语对话训练英语口语",
+      "cover": "http://i2.hdslb.com/bfs/archive/d496f2623ad11fa49fccb40579619eeac5c11f9e.jpg",
+      "author": "牛娃学习社区",
+      "ctime": 1755953228,
+      "audio": {
+        "size": 6648251,
+        "file": "BV1o7eqzNEX9.m4a"
       }
     }
   }

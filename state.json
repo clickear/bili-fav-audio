@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i0.hdslb.com/bfs/archive/68ddbf345ede22339e474c2410b6de25d5abd5b6.jpg",
+    "cover": "http://i2.hdslb.com/bfs/archive/c3bfa41adce89ae80cdc0af6f9b77252e5bdd925.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 271,
+    "media_count": 272,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2912,6 +2912,18 @@
       "audio": {
         "size": 4270300,
         "file": "BV1vu3C6LEZw.m4a"
+      }
+    },
+    "BV1hb4y187nN": {
+      "bvid": "BV1hb4y187nN",
+      "title": "【寻径03】怎么做了那么多题，成绩还是上不来？",
+      "intro": "视频文案：https://www.modevol.com/episode/ckx8itiir000l01l2avezagzt",
+      "cover": "http://i2.hdslb.com/bfs/archive/c3bfa41adce89ae80cdc0af6f9b77252e5bdd925.jpg",
+      "author": "YJango",
+      "ctime": 1636348740,
+      "audio": {
+        "size": 15692678,
+        "file": "BV1hb4y187nN.m4a"
       }
     }
   }

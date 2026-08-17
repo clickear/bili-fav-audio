@@ -5,8 +5,8 @@
     <link>https://space.bilibili.com/108635541/favlist?fid=55743041</link>
     <description>默认收藏夹 - 音频</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 17 Aug 2026 12:33:18 +0000</lastBuildDate>
-    <itunes:image href="http://i2.hdslb.com/bfs/archive/c3bfa41adce89ae80cdc0af6f9b77252e5bdd925.jpg"/>
+    <lastBuildDate>Mon, 17 Aug 2026 18:31:17 +0000</lastBuildDate>
+    <itunes:image href="http://i0.hdslb.com/bfs/archive/b1c6eef43e69fac2aa0831fa99add415e7a7fdaa.jpg"/>
     <itunes:author>bilibili</itunes:author>
     <item>
       <title>英语听力训练的唯一正确顺序</title>
@@ -887,6 +887,16 @@ OpenAI的'推理模型之父'Jerry Tworek看完后激动地说：'我们可能�
       <description>gstack</description>
       <itunes:image href="http://i1.hdslb.com/bfs/archive/be4c3836d651febfddfdadf049eabf3f45e23698.jpg"/>
       <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1Suwoz8Exa.m4a" type="audio/mp4" length="1365330"/>
+    </item>
+    <item>
+      <title>秒懂，如何快速听懂美国人正常语速说话，同时拥有地道英语口音 478</title>
+      <link>https://www.bilibili.com/video/BV1NHwLz3Evz</link>
+      <guid isPermaLink="false">BV1NHwLz3Evz-audio</guid>
+      <pubDate>Mon, 16 Mar 2026 08:22:54 +0000</pubDate>
+      <author>Mike_Woo</author>
+      <description>-</description>
+      <itunes:image href="http://i0.hdslb.com/bfs/archive/b1c6eef43e69fac2aa0831fa99add415e7a7fdaa.jpg"/>
+      <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1NHwLz3Evz.m4a" type="audio/mp4" length="16069215"/>
     </item>
     <item>
       <title>大冰自用说话法，内向人直接抄作业!</title>

@@ -5,14 +5,14 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i2.hdslb.com/bfs/archive/c3bfa41adce89ae80cdc0af6f9b77252e5bdd925.jpg",
+    "cover": "http://i0.hdslb.com/bfs/archive/b1c6eef43e69fac2aa0831fa99add415e7a7fdaa.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
       "face": "http://i0.hdslb.com/bfs/face/member/noface.jpg",
       "followed": false,
       "vip_type": 1,
-      "vip_statue": 1
+      "vip_statue": 0
     },
     "cover_type": 2,
     "cnt_info": {
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 272,
+    "media_count": 273,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2924,6 +2924,18 @@
       "audio": {
         "size": 15692678,
         "file": "BV1hb4y187nN.m4a"
+      }
+    },
+    "BV1NHwLz3Evz": {
+      "bvid": "BV1NHwLz3Evz",
+      "title": "秒懂，如何快速听懂美国人正常语速说话，同时拥有地道英语口音 478",
+      "intro": "-",
+      "cover": "http://i0.hdslb.com/bfs/archive/b1c6eef43e69fac2aa0831fa99add415e7a7fdaa.jpg",
+      "author": "Mike_Woo",
+      "ctime": 1773649374,
+      "audio": {
+        "size": 16069215,
+        "file": "BV1NHwLz3Evz.m4a"
       }
     }
   }

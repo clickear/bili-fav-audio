@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i0.hdslb.com/bfs/archive/b1c6eef43e69fac2aa0831fa99add415e7a7fdaa.jpg",
+    "cover": "http://i0.hdslb.com/bfs/archive/8bc47f09ad7d03823648b71d02f8c715d2ded722.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 273,
+    "media_count": 274,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2936,6 +2936,18 @@
       "audio": {
         "size": 16069215,
         "file": "BV1NHwLz3Evz.m4a"
+      }
+    },
+    "BV1A8gg6fEPJ": {
+      "bvid": "BV1A8gg6fEPJ",
+      "title": "她被拒绝了20次，却成了韩国娱乐圈顶流，韩国总统都换了四届，16年里依然是韩圈顶流",
+      "intro": "",
+      "cover": "http://i0.hdslb.com/bfs/archive/8bc47f09ad7d03823648b71d02f8c715d2ded722.jpg",
+      "author": "_BRILLIANSTREET_",
+      "ctime": 1786772625,
+      "audio": {
+        "size": 9634280,
+        "file": "BV1A8gg6fEPJ.m4a"
       }
     }
   }

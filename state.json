@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i2.hdslb.com/bfs/archive/9c973e1945bda0b08d3dd2d3f90da6d5ab40c751.jpg",
+    "cover": "http://i0.hdslb.com/bfs/archive/be1a5afa0aff67c5947f47c4ec55af27acb4e5ae.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 275,
+    "media_count": 276,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2960,6 +2960,18 @@
       "audio": {
         "size": 2827201,
         "file": "BV1nnhF6mEZs.m4a"
+      }
+    },
+    "BV1uWtA6aEn9": {
+      "bvid": "BV1uWtA6aEn9",
+      "title": "以前的富豪vs现在的富豪(追女星版)",
+      "intro": "-",
+      "cover": "http://i0.hdslb.com/bfs/archive/be1a5afa0aff67c5947f47c4ec55af27acb4e5ae.jpg",
+      "author": "阿姜说娱",
+      "ctime": 1787909332,
+      "audio": {
+        "size": 326611,
+        "file": "BV1uWtA6aEn9.m4a"
       }
     }
   }

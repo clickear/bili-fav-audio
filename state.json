@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i0.hdslb.com/bfs/archive/be1a5afa0aff67c5947f47c4ec55af27acb4e5ae.jpg",
+    "cover": "http://i1.hdslb.com/bfs/archive/71516f3778cc2d056b3ab2495b35885172b7ed80.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 276,
+    "media_count": 277,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2972,6 +2972,18 @@
       "audio": {
         "size": 326611,
         "file": "BV1uWtA6aEn9.m4a"
+      }
+    },
+    "BV1Ui426EEn5": {
+      "bvid": "BV1Ui426EEn5",
+      "title": "小伙网上邀约100位陌生人来家里吃饭：8道家常菜，AA制，人均约20至30元",
+      "intro": "",
+      "cover": "http://i1.hdslb.com/bfs/archive/71516f3778cc2d056b3ab2495b35885172b7ed80.jpg",
+      "author": "九派新闻",
+      "ctime": 1788003081,
+      "audio": {
+        "size": 591981,
+        "file": "BV1Ui426EEn5.m4a"
       }
     }
   }

@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i1.hdslb.com/bfs/archive/71516f3778cc2d056b3ab2495b35885172b7ed80.jpg",
+    "cover": "http://i2.hdslb.com/bfs/archive/55fe9fd120805a396a9406fa61edf6d38de568a8.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 277,
+    "media_count": 278,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2984,6 +2984,18 @@
       "audio": {
         "size": 591981,
         "file": "BV1Ui426EEn5.m4a"
+      }
+    },
+    "BV1Eeb567Es6": {
+      "bvid": "BV1Eeb567Es6",
+      "title": "40年房贷来了？房地产还有救吗？烂尾楼怎么处理？",
+      "intro": "",
+      "cover": "http://i2.hdslb.com/bfs/archive/55fe9fd120805a396a9406fa61edf6d38de568a8.jpg",
+      "author": "数据库kira",
+      "ctime": 1788856288,
+      "audio": {
+        "size": 20777930,
+        "file": "BV1Eeb567Es6.m4a"
       }
     }
   }

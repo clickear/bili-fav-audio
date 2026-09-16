@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "",
+    "cover": "http://i2.hdslb.com/bfs/archive/55fe9fd120805a396a9406fa61edf6d38de568a8.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -14,7 +14,7 @@
       "vip_type": 1,
       "vip_statue": 1
     },
-    "cover_type": 0,
+    "cover_type": 2,
     "cnt_info": {
       "collect": 0,
       "play": 65,

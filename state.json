@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i2.hdslb.com/bfs/archive/55fe9fd120805a396a9406fa61edf6d38de568a8.jpg",
+    "cover": "http://i2.hdslb.com/bfs/archive/a2dfb86952b6260a475c04475ebbf892ce32d17c.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 278,
+    "media_count": 279,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -2996,6 +2996,18 @@
       "audio": {
         "size": 20777930,
         "file": "BV1Eeb567Es6.m4a"
+      }
+    },
+    "BV11Caw6YENy": {
+      "bvid": "BV11Caw6YENy",
+      "title": "每天跟练一小时，半年实现英语口语听力自由 ——【B站最棒的英语播客课程 第1期】",
+      "intro": "播客内容持续更新。\n每天跟练一小时，半年实现英语口语听力自由。",
+      "cover": "http://i2.hdslb.com/bfs/archive/a2dfb86952b6260a475c04475ebbf892ce32d17c.jpg",
+      "author": "YouTube英语屋",
+      "ctime": 1790218004,
+      "audio": {
+        "size": 7919935,
+        "file": "BV11Caw6YENy.m4a"
       }
     }
   }

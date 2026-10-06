@@ -5,9 +5,20 @@
     <link>https://space.bilibili.com/108635541/favlist?fid=55743041</link>
     <description>默认收藏夹 - 音频</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 06 Oct 2026 04:27:00 +0000</lastBuildDate>
-    <itunes:image href="http://i2.hdslb.com/bfs/archive/55fe9fd120805a396a9406fa61edf6d38de568a8.jpg"/>
+    <lastBuildDate>Tue, 06 Oct 2026 12:37:56 +0000</lastBuildDate>
+    <itunes:image href="http://i2.hdslb.com/bfs/archive/a2dfb86952b6260a475c04475ebbf892ce32d17c.jpg"/>
     <itunes:author>bilibili</itunes:author>
+    <item>
+      <title>每天跟练一小时，半年实现英语口语听力自由 ——【B站最棒的英语播客课程 第1期】</title>
+      <link>https://www.bilibili.com/video/BV11Caw6YENy</link>
+      <guid isPermaLink="false">BV11Caw6YENy-audio</guid>
+      <pubDate>Thu, 24 Sep 2026 02:46:44 +0000</pubDate>
+      <author>YouTube英语屋</author>
+      <description>播客内容持续更新。
+每天跟练一小时，半年实现英语口语听力自由。</description>
+      <itunes:image href="http://i2.hdslb.com/bfs/archive/a2dfb86952b6260a475c04475ebbf892ce32d17c.jpg"/>
+      <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV11Caw6YENy.m4a" type="audio/mp4" length="7919935"/>
+    </item>
     <item>
       <title>40年房贷来了？房地产还有救吗？烂尾楼怎么处理？</title>
       <link>https://www.bilibili.com/video/BV1Eeb567Es6</link>

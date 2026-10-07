@@ -5,8 +5,8 @@
     <link>https://space.bilibili.com/108635541/favlist?fid=55743041</link>
     <description>默认收藏夹 - 音频</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 06 Oct 2026 22:11:24 +0000</lastBuildDate>
-    <itunes:image href="http://i2.hdslb.com/bfs/archive/a2dfb86952b6260a475c04475ebbf892ce32d17c.jpg"/>
+    <lastBuildDate>Wed, 07 Oct 2026 03:53:06 +0000</lastBuildDate>
+    <itunes:image href="http://i2.hdslb.com/bfs/archive/1b32937a79376b68d8475de647ad54d01deab427.jpg"/>
     <itunes:author>bilibili</itunes:author>
     <item>
       <title>每天跟练一小时，半年实现英语口语听力自由 ——【B站最棒的英语播客课程 第1期】</title>
@@ -18,6 +18,25 @@
 每天跟练一小时，半年实现英语口语听力自由。</description>
       <itunes:image href="http://i2.hdslb.com/bfs/archive/a2dfb86952b6260a475c04475ebbf892ce32d17c.jpg"/>
       <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV11Caw6YENy.m4a" type="audio/mp4" length="7919935"/>
+    </item>
+    <item>
+      <title>【零基础美剧学英语】第1期《摩登家庭》S1E1 逐字精讲｜从第一句话开始学英语｜听力、口语、地道表达一次搞懂</title>
+      <link>https://www.bilibili.com/video/BV1zMeY61EcX</link>
+      <guid isPermaLink="false">BV1zMeY61EcX-audio</guid>
+      <pubDate>Sat, 19 Sep 2026 17:07:27 +0000</pubDate>
+      <author>心想事成的商务英语</author>
+      <description>🎬 欢迎来到我的频道！
+这一期，我们从《摩登家庭》第一季第一集（S1E1）的第一句话开始，一句一句、一个词一个词地精讲。
+
+这里专门带你 零基础用美剧学英语。我选择的是 《摩登家庭》 (Desperate Housewives)，通过逐句精讲：
+✅ 词汇 Vocabulary
+✅ 常用语法 Grammar
+✅ 口语表达 Speaking
+✅ 发音技巧 Pronunciation
+本视频是 第一季第1集 Episode 1, Season 1，我会用中文+英文结合的方式讲解，帮你轻松听懂、学会地道表达。
+🌟</description>
+      <itunes:image href="http://i2.hdslb.com/bfs/archive/1b32937a79376b68d8475de647ad54d01deab427.jpg"/>
+      <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1zMeY61EcX.m4a" type="audio/mp4" length="9329079"/>
     </item>
     <item>
       <title>40年房贷来了？房地产还有救吗？烂尾楼怎么处理？</title>

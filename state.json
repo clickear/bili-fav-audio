@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i2.hdslb.com/bfs/archive/a2dfb86952b6260a475c04475ebbf892ce32d17c.jpg",
+    "cover": "http://i2.hdslb.com/bfs/archive/1b32937a79376b68d8475de647ad54d01deab427.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 279,
+    "media_count": 280,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -3008,6 +3008,18 @@
       "audio": {
         "size": 7919935,
         "file": "BV11Caw6YENy.m4a"
+      }
+    },
+    "BV1zMeY61EcX": {
+      "bvid": "BV1zMeY61EcX",
+      "title": "【零基础美剧学英语】第1期《摩登家庭》S1E1 逐字精讲｜从第一句话开始学英语｜听力、口语、地道表达一次搞懂",
+      "intro": "🎬 欢迎来到我的频道！\n这一期，我们从《摩登家庭》第一季第一集（S1E1）的第一句话开始，一句一句、一个词一个词地精讲。\n\n这里专门带你 零基础用美剧学英语。我选择的是 《摩登家庭》 (Desperate Housewives)，通过逐句精讲：\n✅ 词汇 Vocabulary\n✅ 常用语法 Grammar\n✅ 口语表达 Speaking\n✅ 发音技巧 Pronunciation\n本视频是 第一季第1集 Episode 1, Season 1，我会用中文+英文结合的方式讲解，帮你轻松听懂、学会地道表达。\n🌟",
+      "cover": "http://i2.hdslb.com/bfs/archive/1b32937a79376b68d8475de647ad54d01deab427.jpg",
+      "author": "心想事成的商务英语",
+      "ctime": 1789837647,
+      "audio": {
+        "size": 9329079,
+        "file": "BV1zMeY61EcX.m4a"
       }
     }
   }

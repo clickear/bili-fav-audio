@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i2.hdslb.com/bfs/archive/1b32937a79376b68d8475de647ad54d01deab427.jpg",
+    "cover": "http://i0.hdslb.com/bfs/archive/b18882daf21d56f5d2ea33ff8f626a5d5998c1ba.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -17,7 +17,7 @@
     "cover_type": 2,
     "cnt_info": {
       "collect": 0,
-      "play": 65,
+      "play": 67,
       "thumb_up": 0,
       "share": 0
     },
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 280,
+    "media_count": 281,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -3020,6 +3020,18 @@
       "audio": {
         "size": 9329079,
         "file": "BV1zMeY61EcX.m4a"
+      }
+    },
+    "BV1vFaG6CEdT": {
+      "bvid": "BV1vFaG6CEdT",
+      "title": "那些被低估的优质冷门古装剧！这些剧当年怎么就没爆？",
+      "intro": "-",
+      "cover": "http://i0.hdslb.com/bfs/archive/b18882daf21d56f5d2ea33ff8f626a5d5998c1ba.jpg",
+      "author": "孑余的猫",
+      "ctime": 1790579656,
+      "audio": {
+        "size": 9380136,
+        "file": "BV1vFaG6CEdT.m4a"
       }
     }
   }

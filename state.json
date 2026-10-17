@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i0.hdslb.com/bfs/archive/b18882daf21d56f5d2ea33ff8f626a5d5998c1ba.jpg",
+    "cover": "http://i2.hdslb.com/bfs/archive/87666e6e9ab975e329e8ab43cd2bf2a9885bc643.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 281,
+    "media_count": 283,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -3032,6 +3032,30 @@
       "audio": {
         "size": 9380136,
         "file": "BV1vFaG6CEdT.m4a"
+      }
+    },
+    "BV1rsjR6aETj": {
+      "bvid": "BV1rsjR6aETj",
+      "title": "【部长的英语零基础快速入门教程】共9集已完结",
+      "intro": "",
+      "cover": "http://i2.hdslb.com/bfs/archive/87666e6e9ab975e329e8ab43cd2bf2a9885bc643.jpg",
+      "author": "脑洞部长",
+      "ctime": 1782298980,
+      "audio": {
+        "size": 984503,
+        "file": "BV1rsjR6aETj.m4a"
+      }
+    },
+    "BV1HKpb63EMu": {
+      "bvid": "BV1HKpb63EMu",
+      "title": "《穿越进英语强制学习系统里》第14集",
+      "intro": "",
+      "cover": "http://i0.hdslb.com/bfs/archive/45a9ef7b440e5e524af1eea3b35a51f6c00efb37.jpg",
+      "author": "脑洞部长",
+      "ctime": 1791550506,
+      "audio": {
+        "size": 23647814,
+        "file": "BV1HKpb63EMu.m4a"
       }
     }
   }

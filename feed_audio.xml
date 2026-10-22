@@ -5,8 +5,8 @@
     <link>https://space.bilibili.com/108635541/favlist?fid=55743041</link>
     <description>默认收藏夹 - 音频</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 21 Oct 2026 21:08:20 +0000</lastBuildDate>
-    <itunes:image href="http://i2.hdslb.com/bfs/archive/87666e6e9ab975e329e8ab43cd2bf2a9885bc643.jpg"/>
+    <lastBuildDate>Thu, 22 Oct 2026 02:57:49 +0000</lastBuildDate>
+    <itunes:image href="http://i2.hdslb.com/bfs/archive/523100a85efa41b122e3bb068c042850214ac585.jpg"/>
     <itunes:author>bilibili</itunes:author>
     <item>
       <title>《穿越进英语强制学习系统里》第14集</title>
@@ -38,6 +38,16 @@
 每天跟练一小时，半年实现英语口语听力自由。</description>
       <itunes:image href="http://i2.hdslb.com/bfs/archive/a2dfb86952b6260a475c04475ebbf892ce32d17c.jpg"/>
       <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV11Caw6YENy.m4a" type="audio/mp4" length="7919935"/>
+    </item>
+    <item>
+      <title>英语母语者真正说话的方式是怎样的</title>
+      <link>https://www.bilibili.com/video/BV1yWei6wET9</link>
+      <guid isPermaLink="false">BV1yWei6wET9-audio</guid>
+      <pubDate>Sun, 20 Sep 2026 02:39:47 +0000</pubDate>
+      <author>启悦杂谈</author>
+      <description></description>
+      <itunes:image href="http://i2.hdslb.com/bfs/archive/523100a85efa41b122e3bb068c042850214ac585.jpg"/>
+      <enclosure url="https://github.com/clickear/bili-fav-audio/releases/download/audio/BV1yWei6wET9.m4a" type="audio/mp4" length="4292486"/>
     </item>
     <item>
       <title>【零基础美剧学英语】第1期《摩登家庭》S1E1 逐字精讲｜从第一句话开始学英语｜听力、口语、地道表达一次搞懂</title>

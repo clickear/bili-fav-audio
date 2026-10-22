@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i2.hdslb.com/bfs/archive/87666e6e9ab975e329e8ab43cd2bf2a9885bc643.jpg",
+    "cover": "http://i2.hdslb.com/bfs/archive/523100a85efa41b122e3bb068c042850214ac585.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 283,
+    "media_count": 284,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -3056,6 +3056,18 @@
       "audio": {
         "size": 23647814,
         "file": "BV1HKpb63EMu.m4a"
+      }
+    },
+    "BV1yWei6wET9": {
+      "bvid": "BV1yWei6wET9",
+      "title": "英语母语者真正说话的方式是怎样的",
+      "intro": "",
+      "cover": "http://i2.hdslb.com/bfs/archive/523100a85efa41b122e3bb068c042850214ac585.jpg",
+      "author": "启悦杂谈",
+      "ctime": 1789871987,
+      "audio": {
+        "size": 4292486,
+        "file": "BV1yWei6wET9.m4a"
       }
     }
   }

@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i2.hdslb.com/bfs/archive/523100a85efa41b122e3bb068c042850214ac585.jpg",
+    "cover": "http://i2.hdslb.com/bfs/archive/d9c414aa1916c83b4ca6960cd83e48b96c2cb794.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 284,
+    "media_count": 285,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -3069,6 +3069,14 @@
         "size": 4292486,
         "file": "BV1yWei6wET9.m4a"
       }
+    },
+    "BV1HJpN65EUi": {
+      "bvid": "BV1HJpN65EUi",
+      "title": "新手入坑必看！AI视频到底该怎么做？",
+      "intro": "阿斯塔纳电影节归来！之后会公开《删除》的画布，先再发一期教程...\n评论太多了有时候回不过来，可以私聊我，不要害羞",
+      "cover": "http://i2.hdslb.com/bfs/archive/d9c414aa1916c83b4ca6960cd83e48b96c2cb794.jpg",
+      "author": "Ksr桑",
+      "ctime": 1791324157
     }
   }
 }

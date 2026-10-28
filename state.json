@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i2.hdslb.com/bfs/archive/d9c414aa1916c83b4ca6960cd83e48b96c2cb794.jpg",
+    "cover": "http://i1.hdslb.com/bfs/archive/a6615160663949a0c030c34cef298683f6e9f2f8.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 285,
+    "media_count": 286,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -3077,6 +3077,18 @@
       "cover": "http://i2.hdslb.com/bfs/archive/d9c414aa1916c83b4ca6960cd83e48b96c2cb794.jpg",
       "author": "Ksr桑",
       "ctime": 1791324157
+    },
+    "BV16bxj6mE7k": {
+      "bvid": "BV16bxj6mE7k",
+      "title": "最新订阅GPTPLUS！国内卡苹果礼品卡/支付宝订阅教程 看完你也能选出适合你的方法 保姆级教程",
+      "intro": "",
+      "cover": "http://i1.hdslb.com/bfs/archive/a6615160663949a0c030c34cef298683f6e9f2f8.jpg",
+      "author": "GPTplus订阅哦",
+      "ctime": 1793168914,
+      "audio": {
+        "size": 2657035,
+        "file": "BV16bxj6mE7k.m4a"
+      }
     }
   }
 }

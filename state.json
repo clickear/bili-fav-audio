@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i1.hdslb.com/bfs/archive/83df79aef6b426050c80d493bf5f037269ff94b5.jpg",
+    "cover": "http://i2.hdslb.com/bfs/archive/d8ea5ad0593e898c613bf64eb8792475594faf96.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 287,
+    "media_count": 288,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -3100,7 +3100,23 @@
       "intro": "原来“荷花”还有这么多叫法！#藕 #中国文化 #传统文化 #涨知识",
       "cover": "http://i1.hdslb.com/bfs/archive/83df79aef6b426050c80d493bf5f037269ff94b5.jpg",
       "author": "智识科普",
-      "ctime": 1793689524
+      "ctime": 1793689524,
+      "audio": {
+        "size": 2495077,
+        "file": "BV1GT436HEMy.m4a"
+      }
+    },
+    "BV1cixC6ZE6y": {
+      "bvid": "BV1cixC6ZE6y",
+      "title": "连环脑筋急转弯",
+      "intro": "",
+      "cover": "http://i2.hdslb.com/bfs/archive/d8ea5ad0593e898c613bf64eb8792475594faf96.jpg",
+      "author": "是简宁呢",
+      "ctime": 1793429734,
+      "audio": {
+        "size": 1194512,
+        "file": "BV1cixC6ZE6y.m4a"
+      }
     }
   }
 }

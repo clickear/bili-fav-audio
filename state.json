@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i1.hdslb.com/bfs/archive/581c149e78f76b8f9e6e4929b09acabad87b5104.jpg",
+    "cover": "http://i1.hdslb.com/bfs/archive/83df79aef6b426050c80d493bf5f037269ff94b5.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 286,
+    "media_count": 287,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -3093,6 +3093,14 @@
         "size": 2657035,
         "file": "BV16bxj6mE7k.m4a"
       }
+    },
+    "BV1GT436HEMy": {
+      "bvid": "BV1GT436HEMy",
+      "title": "原来“荷花”还有这么多叫法！",
+      "intro": "原来“荷花”还有这么多叫法！#藕 #中国文化 #传统文化 #涨知识",
+      "cover": "http://i1.hdslb.com/bfs/archive/83df79aef6b426050c80d493bf5f037269ff94b5.jpg",
+      "author": "智识科普",
+      "ctime": 1793689524
     }
   }
 }

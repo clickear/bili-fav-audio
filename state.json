@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i2.hdslb.com/bfs/archive/d8ea5ad0593e898c613bf64eb8792475594faf96.jpg",
+    "cover": "http://i0.hdslb.com/bfs/archive/c6ea8f5b91ce78298e565c33ec98b7f8b19865b6.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 288,
+    "media_count": 289,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -3117,6 +3117,14 @@
         "size": 1194512,
         "file": "BV1cixC6ZE6y.m4a"
       }
+    },
+    "BV1X5krBGEsa": {
+      "bvid": "BV1X5krBGEsa",
+      "title": "【2小时完整版】方三文对话段永平：做自己能够喜欢的事情很重要",
+      "intro": "",
+      "cover": "http://i0.hdslb.com/bfs/archive/c6ea8f5b91ce78298e565c33ec98b7f8b19865b6.jpg",
+      "author": "雪球官方账号",
+      "ctime": 1762842899
     }
   }
 }

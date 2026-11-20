@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i0.hdslb.com/bfs/archive/c6ea8f5b91ce78298e565c33ec98b7f8b19865b6.jpg",
+    "cover": "http://i2.hdslb.com/bfs/archive/72d269fbaaa079912d4dabda66059057093f5c3a.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 289,
+    "media_count": 290,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -3125,6 +3125,14 @@
       "cover": "http://i0.hdslb.com/bfs/archive/c6ea8f5b91ce78298e565c33ec98b7f8b19865b6.jpg",
       "author": "雪球官方账号",
       "ctime": 1762842899
+    },
+    "BV1WYsq6kEqS": {
+      "bvid": "BV1WYsq6kEqS",
+      "title": "复活吃灰Kindle！用AI实现自动无线传书",
+      "intro": "",
+      "cover": "http://i2.hdslb.com/bfs/archive/72d269fbaaa079912d4dabda66059057093f5c3a.jpg",
+      "author": "码里奥Ziho",
+      "ctime": 1795157690
     }
   }
 }

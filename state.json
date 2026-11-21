@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i0.hdslb.com/bfs/archive/f3eb4b17319fc7d1149071777dab7e5ac76531a0.jpg",
+    "cover": "http://i0.hdslb.com/bfs/archive/16cd420976870729f790bb129f1b65a1882eae8a.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 292,
+    "media_count": 293,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -3149,6 +3149,14 @@
       "cover": "http://i1.hdslb.com/bfs/archive/c395d4ae405766577581a7d9dcf77640e495ed37.jpg",
       "author": "后宫补番",
       "ctime": 1786019113
+    },
+    "BV1gcWn6iEiB": {
+      "bvid": "BV1gcWn6iEiB",
+      "title": "制作一年半《诡界》全篇  一口气看完",
+      "intro": "",
+      "cover": "http://i0.hdslb.com/bfs/archive/16cd420976870729f790bb129f1b65a1882eae8a.jpg",
+      "author": "弱坤-",
+      "ctime": 1794130757
     }
   }
 }

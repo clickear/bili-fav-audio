@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i2.hdslb.com/bfs/archive/72d269fbaaa079912d4dabda66059057093f5c3a.jpg",
+    "cover": "http://i0.hdslb.com/bfs/archive/f3eb4b17319fc7d1149071777dab7e5ac76531a0.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 290,
+    "media_count": 292,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -3133,6 +3133,22 @@
       "cover": "http://i2.hdslb.com/bfs/archive/72d269fbaaa079912d4dabda66059057093f5c3a.jpg",
       "author": "码里奥Ziho",
       "ctime": 1795157690
+    },
+    "BV1NJsg6qEWM": {
+      "bvid": "BV1NJsg6qEWM",
+      "title": "分享一下我的gpt-live口语练习方法",
+      "intro": "虽然gpt-live这个模型7月份就已经上线了，但是一直因为感觉这个模型智商有点不太够所以一直也没有怎么用\n但素！\n连上codex就完全不一样了！\nlive model只负责口语交互的部分，\n背后的学习方案，文件操作和存储，obsidian flashcard制作等等等等需要脑子的\n全都由背后更加聪明的codex中调用的模型来完成\n老规矩不止分享skill文件，更加鼓励大家搭一个属于自己的版本～\nskill🔗：https://github.com/mikkoxu2311/daily-chitchat\n\n有",
+      "cover": "http://i0.hdslb.com/bfs/archive/f3eb4b17319fc7d1149071777dab7e5ac76531a0.jpg",
+      "author": "许多肉本许",
+      "ctime": 1794895097
+    },
+    "BV1T8uJ6oEjQ": {
+      "bvid": "BV1T8uJ6oEjQ",
+      "title": "【数码宝贝 第一季】全54集 国语超清中字（未删减版）",
+      "intro": "",
+      "cover": "http://i1.hdslb.com/bfs/archive/c395d4ae405766577581a7d9dcf77640e495ed37.jpg",
+      "author": "后宫补番",
+      "ctime": 1786019113
     }
   }
 }

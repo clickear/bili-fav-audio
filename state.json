@@ -5,7 +5,7 @@
     "mid": 108635541,
     "attr": 0,
     "title": "默认收藏夹",
-    "cover": "http://i0.hdslb.com/bfs/archive/16cd420976870729f790bb129f1b65a1882eae8a.jpg",
+    "cover": "http://i0.hdslb.com/bfs/archive/8068708e27d9a8aa1637e268bee7ba59e6e69b34.jpg",
     "upper": {
       "mid": 108635541,
       "name": "clickear",
@@ -28,7 +28,7 @@
     "state": 0,
     "fav_state": 0,
     "like_state": 0,
-    "media_count": 293,
+    "media_count": 295,
     "is_top": false,
     "is_kid_playlist": false,
     "kid_playlist_desc": ""
@@ -3157,6 +3157,22 @@
       "cover": "http://i0.hdslb.com/bfs/archive/16cd420976870729f790bb129f1b65a1882eae8a.jpg",
       "author": "弱坤-",
       "ctime": 1794130757
+    },
+    "BV1KZy3zuE96": {
+      "bvid": "BV1KZy3zuE96",
+      "title": "走着最艰难的路，唱着最动人的民谣。-赵雷",
+      "intro": "",
+      "cover": "http://i0.hdslb.com/bfs/archive/8068708e27d9a8aa1637e268bee7ba59e6e69b34.jpg",
+      "author": "Lumi音乐馆",
+      "ctime": 1795317674
+    },
+    "BV1ENsj63E21": {
+      "bvid": "BV1ENsj63E21",
+      "title": "顶嘴归顶嘴，萱还是小棉袄",
+      "intro": "-",
+      "cover": "http://i2.hdslb.com/bfs/archive/1f8d2f998c1643e0ce2912d43c80a052e14cbdd7.jpg",
+      "author": "佩萱是个迷",
+      "ctime": 1794674747
     }
   }
 }
